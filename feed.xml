@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>VirtualHub</title>
+    <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
+    <link href="https://virtualhub.legacyinstaller.pcriot.com" />
+    <updated>2022-03-23T14:34:49+05:30</updated>
+    <author>
+        <name>Legacy Installer</name>
+    </author>
+    <id>https://virtualhub.legacyinstaller.pcriot.com</id>
+
+    <entry>
+        <title>How to experience 86-DOS?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</id>
+            <category term="Other Emulator"/>
+            <category term="DOS"/>
+
+        <updated>2022-03-23T14:34:49+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
+                    86-DOS is a "quick and dirty" operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
+                <p>86-DOS is a "quick and dirty" operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS. Sadly, it cannot be emulated by any software we have installed so far. Thankfully, there exist an emulator, which is very tiny in size and we can run 86-DOS on it.</p>
+<p>You can Download them here:</p>
+<ul>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/86DOSonlinux.tar.xz">86DOS Linux version</a></li>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/86DOSonwindows.zip">86DOS Windows version</a></li>
+</ul>
+<h1>Using 86-DOS</h1>
+<p>It is very easy to start using 86-DOS. On Linux, extract the above archive and right click on the 86dos.sh file and choose "Run as a Program" or run the shell file the way you run any other shell file. On Windows, extract the above archive and double click the Runme.bat file. The Virtual Machine will start.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-md.png 768w"  alt="86DOS emulator screenshot" width="834" height="630"></figure>Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86DOS.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-md.png 768w"  alt="86DOS emulator with 86DOS started screenshot" width="834" height="630"></figure>Enter a date from 1980s to continue. You should not enter dates after year 2000 due to a bug in almost all software released before that year. For example, enter 03-23-82 and press Enter(↩). 86-DOS will start. You can enter the DIR command to see a list of available files.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-md.png 768w"  alt="DIR command running in 86DOS" width="834" height="630"></figure>That's it! We used 86-DOS, an operating system launched in 1981 after 41 years (at the time of writing this tutorial).</p>
+<h1>Related Pages</h1>
+<ul>
+<li><a href="https://winworldpc.com/product/86-dos/100" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/86-DOS" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+<li><a href="https://betawiki.net/wiki/86-DOS" target="_blank" rel="noopener noreferrer">BetaWiki</a></li>
+</ul>
+<h1>Credits</h1>
+<p>The emulator which is linked above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="nofollow noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="nofollow noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

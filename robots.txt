@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://virtualhub.legacyinstaller.pcriot.com/sitemap.xml

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://virtualhub.legacyinstaller.pcriot.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/</loc>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/</loc>
+<lastmod>2022-03-23T13:58:32+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/1/VirtualHub.png</image:loc>
+<image:title><![CDATA[VirtualHub Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
+<lastmod>2022-03-23T14:41:01+05:30</lastmod>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
+<lastmod>2022-03-23T14:34:49+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png</image:loc>
+<image:title><![CDATA[86DOS asking for date]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-1.png</image:loc>
+<image:title><![CDATA[86DOS emulator screenshot]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2.png</image:loc>
+<image:title><![CDATA[86DOS emulator with 86DOS started screenshot]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-3.png</image:loc>
+<image:title><![CDATA[DIR command running in 86DOS]]></image:title>
+</image:image>
+</url>
+</urlset>
