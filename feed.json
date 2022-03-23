@@ -5,6 +5,7 @@
     "home_page_url": "https://virtualhub.legacyinstaller.pcriot.com",
     "feed_url": "https://virtualhub.legacyinstaller.pcriot.com/feed.json",
     "user_comment": "",
+    "icon": "https://virtualhub.legacyinstaller.pcriot.com/media/website/VirtualHub.png",
     "author": {
         "name": "Legacy Installer"
     },
