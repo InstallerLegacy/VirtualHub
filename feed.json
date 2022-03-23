@@ -9,5 +9,20 @@
         "name": "Legacy Installer"
     },
     "items": [
+        {
+            "id": "https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/",
+            "url": "https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/",
+            "title": "About VirtualHub",
+            "summary": "Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in&hellip;",
+            "content_html": "<p>Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.</p>\n<p>So, how is this different from <a href=\"https://legacyinstaller.pcriot.com\" target=\"_blank\" rel=\"noopener noreferrer\">Legacy Installer</a>, our main website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.</p>\n<p>I love written tutorials with images instead of videos. But I know that many people like to watch videos instead of reading long tutorials. So, for now, I have been writing tutorials and making videos on all the topics on Legacy Installer. But it is proving very difficult for me to do all this alone.</p>\n<p>I also got bored by installing very old and simple operating systems that do not do anything much. With all this going on, I tried to form a solution to these problems and this introduces VirtualHub!</p>\n<p>VirtualHub is a static site and it is fast. I use <a href=\"https://getpublii.com/\">Publii</a> to create and manage it. This enables me to write and edit tutorials offline and publish it after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient unlike WordPress.</p>\n<p>What I am going to do is post 1 tutorial every day on VirtualHub about installing old operating systems and other software on different virtualization and emulation software. I will not make videos related to these tutorials. On the Legacy Installer site, I will post a tutorial every week featuring some exciting and famous old operating systems with lots of tweaks to make them work better. I will make a video on these tutorials and will publish it on <a href=\"https://www.youtube.com/channel/UC-I8rYuX1N17jcwboU3104Q\">youtube</a> and other video-sharing sites. I will also upload the video on the VirtualHub site and create a post here to further analyze the video.</p>\n<p>For more information about Legacy Installer and its aims, visit its <a href=\"https://legacyinstaller.pcriot.com/about\">about page</a>.</p>",
+            "image": "https://virtualhub.legacyinstaller.pcriot.com/media/posts/1/VirtualHub.png",
+            "author": {
+                "name": "Legacy Installer"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-23T11:04:21+05:30",
+            "date_modified": "2022-03-23T11:06:45+05:30"
+        }
     ]
 }
