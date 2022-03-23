@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-23T13:35:32+05:30</updated>
+    <updated>2022-03-23T13:53:42+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Other Emulator"/>
             <category term="DOS"/>
 
-        <updated>2022-03-23T13:35:32+05:30</updated>
+        <updated>2022-03-23T13:53:42+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
@@ -46,35 +46,8 @@
 <li><a href="https://en.wikipedia.org/wiki/86-DOS" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 <li><a href="https://betawiki.net/wiki/86-DOS" target="_blank" rel="noopener noreferrer">BetaWiki</a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About VirtualHub</title>
-        <author>
-            <name>Legacy Installer</name>
-        </author>
-        <link href="https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/"/>
-        <id>https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/</id>
-
-        <updated>2022-03-23T12:53:24+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/1/VirtualHub.png" alt="VirtualHub Logo" />
-                    Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/1/VirtualHub.png" alt="VirtualHub Logo" />
-                <p>Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.</p>
-<p>So, how is this different from <a href="https://legacyinstaller.pcriot.com" target="_blank" rel="noopener noreferrer">Legacy Installer</a>, our main website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.</p>
-<p>I love written tutorials with images instead of videos. But I know that many people like to watch videos instead of reading long tutorials. So, for now, I have been writing tutorials and making videos on all the topics on Legacy Installer. But it is proving very difficult for me to do all this alone.</p>
-<p>I also got bored by installing very old and simple operating systems that do not do anything much. With all this going on, I tried to form a solution to these problems and this introduces VirtualHub!</p>
-<p>VirtualHub is a static site and it is fast. I use <a href="https://getpublii.com/">Publii</a> to create and manage it. This enables me to write and edit tutorials offline and publish it after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient unlike WordPress.</p>
-<p>What I am going to do is post 1 tutorial every day on VirtualHub about installing old operating systems and other software on different virtualization and emulation software. I will not make videos related to these tutorials. On the Legacy Installer site, I will post a tutorial every week featuring some exciting and famous old operating systems with lots of tweaks to make them work better. I will make a video on these tutorials and will publish it on <a href="https://www.youtube.com/channel/UC-I8rYuX1N17jcwboU3104Q">youtube</a> and other video-sharing sites. I will also upload the video on the VirtualHub site and create a post here to further analyze the video.</p>
-<p>There is one more change that I have done in my last few tutorials. Instead of using Windows to write the tutorial and make the video, I used different linux distributions. I have now settled on one distribution - <a href="https://garudalinux.org/downloads.html#GNOME">Garuda Linux Gnome Edition</a>. I will use it for all the tutorials and videos from now. Since, I am going to use linux, so the steps may need to be modified for Windows users. For emulators and other software that do not have a linux version or if the linux version does not work properly, I will use <a href="https://www.winehq.org/">WINE</a> to run them.</p>
-<p>For more information about Legacy Installer and its aims, visit its <a href="https://legacyinstaller.pcriot.com/about">about page</a>.</p>
+<h1>Credits</h1>
+<p>The emulator which is linked above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="nofollow noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="nofollow noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
             ]]>
         </content>
     </entry>
