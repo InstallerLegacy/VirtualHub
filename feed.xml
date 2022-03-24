@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-24T16:14:46+05:30</updated>
+    <updated>2022-03-24T16:35:20+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -68,7 +68,7 @@
             <category term="Other Emulator"/>
             <category term="DOS"/>
 
-        <updated>2022-03-24T16:14:46+05:30</updated>
+        <updated>2022-03-24T16:35:20+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
@@ -93,8 +93,8 @@
 <ul>
 <li><a href="https://web.archive.org/web/20200110094102/http://www.patersontech.com/dos/docs/86_Dos_inst.pdf" target="_blank" rel="noopener noreferrer">86-DOS Instruction Manual</a></li>
 <li><a href="https://web.archive.org/web/20210216072829/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Programmers_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS Programmer's Manual</a></li>
-<li><a href="http://www.bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS User's Manual</a></li>
-<li><a href="http://www.bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf" target="_blank" rel="noopener noreferrer">86-DOS 1.0 Addendum</a></li>
+<li><a href="https://web.archive.org/web/20210216073337/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS User's Manual</a></li>
+<li><a href="https://web.archive.org/web/20210216073838/http://bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf" target="_blank" rel="noopener noreferrer">86-DOS 1.0 Addendum</a></li>
 </ul>
 <h1>Related Pages</h1>
 <ul>
