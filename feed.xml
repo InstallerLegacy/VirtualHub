@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-24T15:57:44+05:30</updated>
+    <updated>2022-03-24T16:14:46+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -68,7 +68,7 @@
             <category term="Other Emulator"/>
             <category term="DOS"/>
 
-        <updated>2022-03-23T14:34:49+05:30</updated>
+        <updated>2022-03-24T16:14:46+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
@@ -89,6 +89,13 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-md.png 768w"  alt="86DOS emulator screenshot" width="834" height="630"></figure>Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86DOS.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-md.png 768w"  alt="86DOS emulator with 86DOS started screenshot" width="834" height="630"></figure>Enter a date from 1980s to continue. You should not enter dates after year 2000 due to a bug in almost all software released before that year. For example, enter 03-23-82 and press Enter(↩). 86-DOS will start. You can enter the DIR command to see a list of available files.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-md.png 768w"  alt="DIR command running in 86DOS" width="834" height="630"></figure>That's it! We used 86-DOS, an operating system launched in 1981 after 41 years (at the time of writing this tutorial).</p>
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://web.archive.org/web/20200110094102/http://www.patersontech.com/dos/docs/86_Dos_inst.pdf" target="_blank" rel="noopener noreferrer">86-DOS Instruction Manual</a></li>
+<li><a href="https://web.archive.org/web/20210216072829/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Programmers_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS Programmer's Manual</a></li>
+<li><a href="http://www.bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS User's Manual</a></li>
+<li><a href="http://www.bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf" target="_blank" rel="noopener noreferrer">86-DOS 1.0 Addendum</a></li>
+</ul>
 <h1>Related Pages</h1>
 <ul>
 <li><a href="https://winworldpc.com/product/86-dos/100" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
