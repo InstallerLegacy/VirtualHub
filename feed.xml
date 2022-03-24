@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-24T14:52:09+05:30</updated>
+    <updated>2022-03-24T15:57:44+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-24T14:52:09+05:30</updated>
+        <updated>2022-03-24T15:57:44+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/CPM-80-1.4-2-2.png" alt="CP/M-80 1.4 DIR command screenshot" />
@@ -40,6 +40,14 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/CPM-80-1.4-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-1-md.png 768w"  alt="CP/M-80 1.4 emulator screenshot" width="834" height="630"></figure>You can enter the DIR command to see a list of files.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/CPM-80-1.4-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/responsive/CPM-80-1.4-2-md.png 768w"  alt="CP/M-80 1.4 DIR command screenshot" width="834" height="630"></figure>
 <p>That's it! We used CP/M-80 1.4, an operating system launched in 1982 after 40 years (at the time of writing this tutorial).</p>
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://web.archive.org/web/20200215063155/http://www.cpm.z80.de/manuals/cpm13int.pdf" target="_blank" rel="noopener noreferrer">CP/M 1.3 Introduction</a></li>
+<li><a href="https://web.archive.org/web/20210912191531/http://www.cpm.z80.de/randyfiles/DRI/CPM_1_4_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 1.4 Interface Guide</a></li>
+<li><a href="https://web.archive.org/web/20220324101539/http://www.cpm.z80.de/randyfiles/DRI/CPM_1_4_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 1.4 System Alteration Guide</a></li>
+<li><a href="https://web.archive.org/web/20220324101529/http://www.cpm.z80.de/randyfiles/DRI/Intro_to_CPM_Feat_and_Facilities.pdf" target="_blank" rel="noopener noreferrer">Introduction to CP/M Features and Facilities (CP/M 1.4)</a></li>
+<li><a href="https://web.archive.org/web/20200215062947/http://www.cpm.z80.de/manuals/CPM_SummaryGuide.pdf" target="null">CP/M Summary Guide (CP/M 1.4)</a></li>
+</ul>
 <h1>Related Pages</h1>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
