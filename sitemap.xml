@@ -14,11 +14,11 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-23T17:58:12+05:30</lastmod>
+<lastmod>2022-03-25T12:06:29+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
-<lastmod>2022-03-24T16:35:20+05:30</lastmod>
+<lastmod>2022-03-24T19:09:48+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png</image:loc>
 <image:title><![CDATA[86DOS asking for date]]></image:title>
@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-14/</loc>
-<lastmod>2022-03-24T15:57:44+05:30</lastmod>
+<lastmod>2022-03-24T19:10:43+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/4/CPM-80-1.4-2-2.png</image:loc>
 <image:title><![CDATA[CP/M-80 1.4 DIR command screenshot]]></image:title>
@@ -54,6 +54,18 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/</loc>
-<lastmod>2022-03-24T15:57:55+05:30</lastmod>
+<lastmod>2022-03-24T19:13:09+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2-2.png</image:loc>
+<image:title><![CDATA[CP/M-80 v2.2 list of files]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-1.png</image:loc>
+<image:title><![CDATA[CP/M-80 v2.2 emulator]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2.png</image:loc>
+<image:title><![CDATA[CP/M-80 2.2 list of files]]></image:title>
+</image:image>
 </url>
 </urlset>
