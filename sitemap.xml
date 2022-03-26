@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-25T14:59:58+05:30</lastmod>
+<lastmod>2022-03-26T16:13:53+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
@@ -66,6 +66,34 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2.png</image:loc>
 <image:title><![CDATA[CP/M-80 2.2 list of files]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation/</loc>
+<lastmod>2022-03-26T16:07:44+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5-2.png</image:loc>
+<image:title><![CDATA[List of files in KAYPRO II CP/M-80 2.2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-1.png</image:loc>
+<image:title><![CDATA[MAME KAYPRO II window]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-2.png</image:loc>
+<image:title><![CDATA[KAYPRO II asking for floppy disk]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-3.png</image:loc>
+<image:title><![CDATA[Emulator main menu]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-4.png</image:loc>
+<image:title><![CDATA[Choosing the floppy image]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5.png</image:loc>
+<image:title><![CDATA[List of files in KAYPRO CP/M-80 2.2]]></image:title>
 </image:image>
 </url>
 </urlset>
