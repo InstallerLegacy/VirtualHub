@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-27T08:09:01+05:30</updated>
+    <updated>2022-03-27T12:36:38+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -129,7 +129,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-27T08:07:04+05:30</updated>
+        <updated>2022-03-27T12:36:38+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5-2.png" alt="List of files in KAYPRO II CP/M-80 2.2" />
@@ -147,7 +147,7 @@
 </ul>
 <p>In this tutorial, we are going to use the KAYPRO II emulation. You can download the files required for this tutorial from here:</p>
 <ul>
-<li><a href="CPM-80 2.2 [KAYPRO II 64k]">CP/M-80 2.2 for KAYPRO II disk image files</a></li>
+<li><a href="https://archive.org/download/kaypro-ii-64k-cpm-vers-2.2/KAYPRO%20II%2064k%20CPM%20vers%202.2.7z">CP/M-80 2.2 for KAYPRO II disk image files</a></li>
 <li><a href="https://archive.org/download/mame-merged/mame-merged/kayproii.zip">MAME KAYPRO II ROM</a></li>
 <li><a href="https://archive.org/download/mame-merged/mame-merged/kaypro10kbd.zip">MAME KAYPRO II KBD ROM</a></li>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.linux.tar.xz">mame.ini file for Linux</a></li>
