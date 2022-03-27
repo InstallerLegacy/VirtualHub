@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/about-virtualhub/</loc>
-<lastmod>2022-03-25T15:00:54+05:30</lastmod>
+<lastmod>2022-03-27T08:14:11+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/1/VirtualHub.png</image:loc>
 <image:title><![CDATA[VirtualHub Logo]]></image:title>
@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-26T16:13:53+05:30</lastmod>
+<lastmod>2022-03-27T08:11:04+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
@@ -70,7 +70,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation/</loc>
-<lastmod>2022-03-26T16:28:30+05:30</lastmod>
+<lastmod>2022-03-27T08:07:04+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5-2.png</image:loc>
 <image:title><![CDATA[List of files in KAYPRO II CP/M-80 2.2]]></image:title>
@@ -94,6 +94,34 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5.png</image:loc>
 <image:title><![CDATA[List of files in KAYPRO CP/M-80 2.2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation/</loc>
+<lastmod>2022-03-27T08:09:01+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5-2.png</image:loc>
+<image:title><![CDATA[List of FIles in Sharp X1 CP/M-80 2.2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7//CPM-80-2.2-MAME-x1-1.png</image:loc>
+<image:title><![CDATA[MAME's X1 emulation window]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-2.png</image:loc>
+<image:title><![CDATA[Sharp X1 OS loader screen]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-3.png</image:loc>
+<image:title><![CDATA[Sharp X1 main menu]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-4.png</image:loc>
+<image:title><![CDATA[Sharp X1 floppy disk image chooser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5.png</image:loc>
+<image:title><![CDATA[List to files in Sharp X1 CP/M-80 2.2]]></image:title>
 </image:image>
 </url>
 </urlset>
