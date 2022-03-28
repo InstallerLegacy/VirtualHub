@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-28T13:39:58+05:30</updated>
+    <updated>2022-03-28T14:16:43+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-28T13:39:58+05:30</updated>
+        <updated>2022-03-28T14:16:30+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -36,7 +36,7 @@
 <li>NCR Decision Mate V</li>
 <li>Sharp X1</li>
 </ul>
-<p>In this tutorial, we are going to use the SHARP X1 emulation. You can download the files required for this tutorial from here:</p>
+<p>In this tutorial, we are going to use the NCR Decision Mate V emulation. You can download the files required for this tutorial from here:</p>
 <ul>
 <li><a href="https://winworldpc.com/download/e28093c3-99c2-bc0b-c398-c2b211c3a5ef/from/c39ac2af-c381-c2bf-1b25-11c3a4e284a2">CP/M-80 2.2 for NCR Decision Mate V disk image files</a></li>
 <li><a href="https://archive.org/download/mame-merged/mame-merged/dmv.zip">MAME NCR Decision Mate V ROM</a></li>
@@ -130,7 +130,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-27T08:09:01+05:30</updated>
+        <updated>2022-03-28T14:16:43+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5-2.png" alt="List of FIles in Sharp X1 CP/M-80 2.2" />
