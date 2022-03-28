@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-28T14:16:43+05:30</updated>
+    <updated>2022-03-28T15:35:52+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-28T14:16:30+05:30</updated>
+        <updated>2022-03-28T15:35:52+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -77,7 +77,7 @@
 <p>On Windows, it is much easier. Create a file called CPM-80-dmv.bat in that folder with the following contents:</p>
 <pre>"C:\Program Files\MAME\mame.exe" dmv</pre>
 <p>Then double click on that file to launch the emulator.</p>
-<p>That's it. We have installed and run CP/M-80 2.2 using the MAME's NCR Decision Mate V emulation.</p>
+<p>That's it. We have installed and run CP/M-80 2.2 using the MAME's NCR Decision Mate V emulation. There are disk images for some software in the extra folder. We will cover these software later.</p>
 <h1>Troubleshooting</h1>
 <p>First make sure that you have placed the roms files in the correct place. Do not extract the files. Place the zip files directly in the <code>roms</code> folder.</p>
 <p>On Linux, there might be another error. MAME might have been configured to look in your <code>~/.mame</code> folder for its config files. If that is the case, running the command <code>mame</code> without any parameters in the folder where you have stored the files would result in MAME opening in full screen instead of a window. If you are affected by this problem, here is the solution:</p>
