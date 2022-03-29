@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-29T20:10:24+05:30</updated>
+    <updated>2022-03-29T20:51:57+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-29T20:10:24+05:30</updated>
+        <updated>2022-03-29T20:51:57+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png" alt="List of FIles in YAZE CP/M-80 2.2" />
@@ -37,16 +37,16 @@
 </ul>
 <h1>Installing YAZE</h1>
 <h2>Linux</h2>
-<p>On Linux, you need to build yaze from sources. Extract the source archive and delete the <code>Makefile</code>. Rename the <code>Makefile_linux_your_architecture</code> file to <code>Makefile</code>. For example, I renamed <code>Makefile_linux_64_amd_athlon64</code> to <code>Makefile</code> because I am on an amd64 cpu. Then open a terminal and navigate to that folder. Run the following commands:</p>
+<p>On Linux, you need to build YAZE from sources. Extract the source archive and delete the <code>Makefile</code>. Rename the <code>Makefile_linux_your_architecture</code> file to <code>Makefile</code>. For example, I renamed <code>Makefile_linux_64_amd_athlon64</code> to <code>Makefile</code> because I am on an amd64 cpu. Then open a terminal and navigate to that folder. Run the following commands:</p>
 <pre>make<br>sudo make install</pre>
 <p>Enter your password when asked. This will install YAZE on your system.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-md.png 768w"  alt="sudo make install yaze" width="834" height="630"></figure>You can now run <code>yaze</code> to start YAZE. Press any key wehn asked to do so. Read the imformation presented on your screen before pressing any key.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-md.png 768w"  alt="sudo make install yaze" width="834" height="630"></figure>You can now run <code>yaze</code> to start YAZE. Press any key when asked to do so. Read the imformation presented on your screen before pressing any key.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-md.png 768w"  alt="YAZE running" width="834" height="630"></figure>You will now get to the <code>A:</code> prompt. You can run the <code>DIR</code> command to see a list of files.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-md.png 768w"  alt="List of Files on YAZE CP/M-80 2.2" width="834" height="630"></figure>That's it for Linux. We have installed and used YAZE with CP/M-80 2.2.</p>
 <h2>Windows</h2>
 <p>On Windows, double click the installer file to start installation of YAZE.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-4.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-md.png 768w"  alt="YAZE Windows Installer" width="523" height="391"></figure>
-<p>Then click on Extract. It will install YAZE. You will see an icon on your Desktop called YAZE. Double click on it to start YAZE. Press any key wehn asked to do so. Read the imformation presented on your screen before pressing any key.</p>
+<p>Then click on Extract. It will install YAZE. You will see an icon on your Desktop called YAZE. Double click on it to start YAZE. Press any key when asked to do so. Read the imformation presented on your screen before pressing any key.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-5.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-md.png 768w"  alt="YAZE on Windows" width="901" height="538"></figure>
 <p>That's it for Windows. We have installed and used YAZE with CP/M-80 2.2.</p>
 <h1>Manuals</h1>
