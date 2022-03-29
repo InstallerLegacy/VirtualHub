@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-28T14:21:47+05:30</lastmod>
+<lastmod>2022-03-29T19:45:54+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
@@ -150,6 +150,34 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5.png</image:loc>
 <image:title><![CDATA[List to files in Sharp X1 CP/M-80 2.2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-yaze/</loc>
+<lastmod>2022-03-29T20:10:24+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png</image:loc>
+<image:title><![CDATA[List of FIles in YAZE CP/M-80 2.2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-1.png</image:loc>
+<image:title><![CDATA[sudo make install yaze]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-2.png</image:loc>
+<image:title><![CDATA[YAZE running]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3.png</image:loc>
+<image:title><![CDATA[List of Files on YAZE CP/M-80 2.2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-4.png</image:loc>
+<image:title><![CDATA[YAZE Windows Installer]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-5.png</image:loc>
+<image:title><![CDATA[YAZE on Windows]]></image:title>
 </image:image>
 </url>
 </urlset>
