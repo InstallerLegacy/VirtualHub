@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-29T19:45:54+05:30</lastmod>
+<lastmod>2022-03-30T12:17:58+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
@@ -178,6 +178,18 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-5.png</image:loc>
 <image:title><![CDATA[YAZE on Windows]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-33-on-cpm-80-22/</loc>
+<lastmod>2022-03-30T12:26:00+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png</image:loc>
+<image:title><![CDATA[WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1.png</image:loc>
+<image:title><![CDATA[WordStar 3.3 running on CP/M-80 2.2 on Altair Z80 emulator]]></image:title>
 </image:image>
 </url>
 </urlset>
