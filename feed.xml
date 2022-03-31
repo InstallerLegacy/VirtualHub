@@ -3,12 +3,83 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-30T12:26:00+05:30</updated>
+    <updated>2022-03-31T19:19:19+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
     <id>https://virtualhub.legacyinstaller.pcriot.com</id>
 
+    <entry>
+        <title>How to install WordStar 4.0 on CP/M-80 2.2?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/</id>
+            <category term="WordStar"/>
+            <category term="CP/M-80"/>
+            <category term="Application"/>
+
+        <updated>2022-03-31T19:19:19+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2-2.png" alt="Sample file on WordStar 4.0" />
+                    In the last tutorial we saw how to install WordStar 3.3 on CP/M-80 2.2. In this tutorial we will see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2-2.png" alt="Sample file on WordStar 4.0" />
+                <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-33-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to install WordStar 3.3 on CP/M-80 2.2</a>. In this tutorial we will see how to install WordStar 4.0 on CP/M-80 2.2. You can download the files required for this tutorial from here:</p>
+<ul>
+<li><a href="https://web.archive.org/web/20210505164107/https://schorn.ch/cpm/zip/wordstar.zip" target="_blank" rel="noopener noreferrer">WordStar 4.0 package for Altair Z80s CP/M-80 2.2</a></li>
+</ul>
+<h1>Installing WordStar 4.0</h1>
+<p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the WordStar 4.0 package you downloaded from above. There are two files in that archive:</p>
+<ul>
+<li>wordstar</li>
+<li>wordstar.dsk</li>
+</ul>
+<p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with WordStar 4.0 diskette loaded:</p>
+<pre>./altairz80l64 wordstar</pre>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to star WordStar 4.0:</p>
+<pre>ws.com</pre>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-md.png 768w"  alt="WordStar 4.0" width="834" height="630"></figure><br>You can press <code>X</code> to exit WordStar. Read the mannuals linked below to learn how to use WordStar.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-md.png 768w"  alt="A sample document on WordStar 4.0" width="834" height="630"></figure>
+<figcaption >A sample document on WordStar 4.0</figcaption>
+</figure>
+<p>We will now create shell/Batch scripts to start CP/M-80 2.2 with WordStar 4.0 diskette loaded in B drive.</p>
+<h2>On Linux</h2>
+<p>Create a file called <code>wordstar.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
+<pre>#!/bin/bash<br>./altairz80l64 wordstar</pre>
+<p>Save and close the file and make it executable by using this command:</p>
+<pre>chmod +x ./wordstar.sh</pre>
+<p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
+<h2>On Windows</h2>
+<p>On windows create a file called wordstar.bat in the folder where the emulator files are located with the following contents:</p>
+<pre>altairz80l64.exe wordstar</pre>
+<p>Save and close that file. Now you can double click the file to open the emulator with the WordStar 4.0 diskette loaded.</p>
+<p>That's it. We use WordStar 4.0, a software released in 1987.</p>
+<div class="post__entry">
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://web.archive.org/web/20200727101218/http://bitsavers.org/pdf/microPro/Wordstar_4/Wordstar_CPM_Release_4_1987.pdf" target="_blank" rel="noopener noreferrer">WordStar 4.0 Manual</a></li>
+<li><a href="https://web.archive.org/web/20200727101231/http://bitsavers.org/pdf/microPro/Wordstar_4/Wordstar_CPM_Release_4_Whats_New_1987.pdf" target="_blank" rel="noopener noreferrer">WordStar 4.0 What's New</a></li>
+<li><a href="https://web.archive.org/web/20200727101209/http://bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_Training_Guide_2ed_Feb83.pdf" target="_blank" rel="noopener noreferrer">WordStar Training Guide</a></li>
+</ul>
+<h1>Related Pages</h1>
+<ul>
+<li><a href="https://winworldpc.com/product/wordstar/40" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WordStar" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+<li><a href="https://www.wordstar.org/" target="_blank" rel="noopener noreferrer">WordStar Resource Site</a></li>
+<li><a href="http://www.retroarchive.org/cpm/text/wordstar-collection.html" target="_blank" rel="noopener noreferrer">Retroarchive WordStar Collection</a></li>
+</ul>
+<h1>Credits</h1>
+<p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to install WordStar 3.3 on CP/M-80 2.2?</title>
         <author>
@@ -20,7 +91,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-03-30T12:26:00+05:30</updated>
+        <updated>2022-03-31T18:57:04+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png" alt="WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator" />
@@ -32,7 +103,7 @@
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png" alt="WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator" />
                 <p>In the last few tutorials we saw how to experience CP/M-80 2.2. But what use an OS is without some applications? In this tutorial we will see how to use WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator. You can download the files required for this tutorial from here:</p>
 <ul>
-<li><a href="https://web.archive.org/web/20220330051710/https://schorn.ch/cpm/zip/ws33.zip">WordStar 3.3 package for Altair Z80s CP/M-80 2.2</a></li>
+<li><a href="https://web.archive.org/web/20220330051710/https://schorn.ch/cpm/zip/ws33.zip" target="_blank" rel="noopener noreferrer">WordStar 3.3 package for Altair Z80s CP/M-80 2.2</a></li>
 </ul>
 <h1>Installing WordStar 3.3</h1>
 <p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the WordStar 3.3 package you downloaded from above. There are two files in that archive:</p>
@@ -88,7 +159,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-29T20:51:57+05:30</updated>
+        <updated>2022-03-31T18:57:21+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png" alt="List of FIles in YAZE CP/M-80 2.2" />
@@ -100,7 +171,7 @@
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png" alt="List of FIles in YAZE CP/M-80 2.2" />
                 <p>In the tutorial <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2 using the Altair Z80 emulator,</a> I said that there were three options to run CP/M-80 2.2. In this tutorial, we are going to use the third option: YAZE. You can download the files needed for this tutorial here:</p>
 <ul>
-<li><a href="https://web.archive.org/web/20220329102455/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/devel/yaze-ag-2.51.3.tar.gz">YAZE sources for Linux</a></li>
+<li><a href="https://web.archive.org/web/20220329102455/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/devel/yaze-ag-2.51.3.tar.gz" target="_blank" rel="noopener noreferrer">YAZE sources for Linux</a></li>
 <li><a href="https://web.archive.org/web/20220329102257/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/winbinaries/index.html" target="_blank" rel="noopener noreferrer">YAZE binaries for Windows</a></li>
 </ul>
 <h1>Installing YAZE</h1>

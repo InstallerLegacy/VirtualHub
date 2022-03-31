@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/downloads/</loc>
-<lastmod>2022-03-30T12:17:58+05:30</lastmod>
+<lastmod>2022-03-31T19:21:51+05:30</lastmod>
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</loc>
@@ -154,7 +154,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-yaze/</loc>
-<lastmod>2022-03-29T20:51:57+05:30</lastmod>
+<lastmod>2022-03-31T18:57:21+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png</image:loc>
 <image:title><![CDATA[List of FIles in YAZE CP/M-80 2.2]]></image:title>
@@ -182,7 +182,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-33-on-cpm-80-22/</loc>
-<lastmod>2022-03-30T12:26:00+05:30</lastmod>
+<lastmod>2022-03-31T18:57:04+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png</image:loc>
 <image:title><![CDATA[WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator]]></image:title>
@@ -190,6 +190,22 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1.png</image:loc>
 <image:title><![CDATA[WordStar 3.3 running on CP/M-80 2.2 on Altair Z80 emulator]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/</loc>
+<lastmod>2022-03-31T19:19:19+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2-2.png</image:loc>
+<image:title><![CDATA[Sample file on WordStar 4.0]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-1.png</image:loc>
+<image:title><![CDATA[WordStar 4.0]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2.png</image:loc>
+<image:title><![CDATA[A sample document on WordStar 4.0]]></image:title>
 </image:image>
 </url>
 </urlset>
