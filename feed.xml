@@ -3,12 +3,78 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-03-31T19:27:44+05:30</updated>
+    <updated>2022-04-01T20:58:18+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
     <id>https://virtualhub.legacyinstaller.pcriot.com</id>
 
+    <entry>
+        <title>How to install Multiplan 1.06 on CP/M-80 2.2?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-multiplan-106-on-cpm-80-22/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-multiplan-106-on-cpm-80-22/</id>
+            <category term="Multiplan"/>
+            <category term="CP/M-80"/>
+            <category term="Application"/>
+
+        <updated>2022-04-01T20:58:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1-2.png" alt="Multiplan 1.06 for CP/M-80 2.2" />
+                    In the last tutorial we saw how to install WordStar 4.0 on CP/M-80 2.2. In this tutorial we will see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1-2.png" alt="Multiplan 1.06 for CP/M-80 2.2" />
+                <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to install WordStar 4.0 on CP/M-80 2.2</a>. In this tutorial we will see how to install Multiplan 1.06 on CP/M-80 2.2. Multiplan was a spreadheet software from Microsoft and it was released much before the world started using Microsoft Excel, another spreadsheet software by Microsoft. You can download the files required for this tutorial from here:</p>
+<ul>
+<li><a href="https://web.archive.org/web/20191206100425/https://schorn.ch/cpm/zip/multiplan.zip" target="_blank" rel="noopener noreferrer">Multiplan 1.06 package for Altair Z80s CP/M-80 2.2</a></li>
+</ul>
+<h1>Installing Multiplan 1.06</h1>
+<p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the Multiplan 1.06 package you downloaded from above. There are two files in that archive:</p>
+<ul>
+<li>multiplan</li>
+<li>multiplan.dsk</li>
+</ul>
+<p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with Multiplan 1.06 diskette loaded:</p>
+<pre>./altairz80l64 multiplan</pre>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to star WordStar 4.0:</p>
+<pre>mp</pre>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-md.png 768w"  alt="Multiplan 1.06 for CP/M-80 2.2" width="834" height="630"></figure>To exit Multiplan, press tab key a few times until <code>Quit</code> is highlighted in the bottom bar, then press enter. Enter <code>y</code> when asked whether to quit or not. Read the mannuals linked below to learn how to use Multiplan.</p>
+<p>We will now create shell/Batch scripts to start CP/M-80 2.2 with Multiplan 1.06 diskette loaded in B drive.</p>
+<h2>On Linux</h2>
+<p>Create a file called <code>multiplan.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
+<pre>#!/bin/bash<br>./altairz80l64 multiplan</pre>
+<p>Save and close the file and make it executable by using this command:</p>
+<pre>chmod +x ./multiplan.sh</pre>
+<p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
+<h2>On Windows</h2>
+<p>On windows create a file called multiplan.bat in the folder where the emulator files are located with the following contents:</p>
+<pre>altairz80l64.exe multiplan</pre>
+<p>Save and close that file. Now you can double click the file to open the emulator with the Multiplan 1.06 diskette loaded.</p>
+<p>That's it. We use Multiplan 1.06, a software released in 1982.</p>
+<div class="post__entry">
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://web.archive.org/web/20211013052749/http://www.bitsavers.org/pdf/microsoft/cpm/Microsoft_Multiplan_for_CPM_1982.pdf" target="_blank" rel="noopener noreferrer">Microsoft Multiplan for CPM Manual</a></li>
+</ul>
+<h1>Related Pages</h1>
+<ul>
+<li><a href="https://winworldpc.com/product/multiplan/106" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Multiplan" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+<li><a href="https://microsoft.fandom.com/wiki/Multiplan" target="_blank" rel="noopener noreferrer">Microsoft Fandom wiki page</a></li>
+<li><a href="https://eightbitworld1984.blogspot.com/2012/11/microsofts-first-spreadsheet-multiplan.html" target="_blank" rel="noopener noreferrer">A good blog post about Multiplan</a></li>
+</ul>
+<h1>Credits</h1>
+<p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to install WordStar 4.0 on CP/M-80 2.2?</title>
         <author>
