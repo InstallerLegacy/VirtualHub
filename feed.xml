@@ -3,12 +3,76 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-01T20:58:18+05:30</updated>
+    <updated>2022-04-02T21:10:17+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
     <id>https://virtualhub.legacyinstaller.pcriot.com</id>
 
+    <entry>
+        <title>How to install SuperCalc 1.00 on CP/M-80 2.2?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/</id>
+            <category term="Other Application"/>
+            <category term="CP/M-80"/>
+            <category term="Application"/>
+
+        <updated>2022-04-02T21:06:53+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/SuperCalc-1.00-CPM-Altair-Z80-1.png" alt="SuperCalc Splash Screen" />
+                    In the last tutorial we saw how to install Multiplan 1.06 on CP/M-80 2.2. In this tutorial we will see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/SuperCalc-1.00-CPM-Altair-Z80-1.png" alt="SuperCalc Splash Screen" />
+                <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-multiplan-106-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to install Multiplan 1.06 on CP/M-80 2.2</a>. In this tutorial we will see how to install SuperCalc 1.00 on CP/M-80 2.2. SuperCalc was a spreadheet software from Sorcim. You can download the files required for this tutorial from here:</p>
+<ul>
+<li><a href="https://web.archive.org/web/20210514212444/https://schorn.ch/cpm/zip/supercalc.zip" target="_blank" rel="noopener noreferrer">SuperCalc 1.00 package for Altair Z80s CP/M-80 2.2</a></li>
+</ul>
+<h1>Installing SuperCalc 1.00</h1>
+<p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the SuperCalc 1.00 package you downloaded from above. There are two files in that archive:</p>
+<ul>
+<li>supercalc</li>
+<li>supercalc.dsk</li>
+</ul>
+<p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with SuperCalc 1.00 diskette loaded:</p>
+<pre>./altairz80l64 supercalc</pre>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to start SuperCalc 1.00:</p>
+<pre>sc2</pre>
+<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/SuperCalc-1.00-CPM-Altair-Z80-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-md.png 768w"  alt="SuperCalc 1.00 on CP/M-80 2.2" width="818" height="612"></figure>To exit SuperCalc, press <code>/</code> then <code>q</code> they <code>y</code>. Read the mannual linked below to learn how to use SuperCalc.</p>
+<p>We will now create shell/Batch scripts to start CP/M-80 2.2 with SuperCalc 1.00 diskette loaded in B drive.</p>
+<h2>On Linux</h2>
+<p>Create a file called <code>supercalc.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
+<pre>#!/bin/bash<br>./altairz80l64 supercalc</pre>
+<p>Save and close the file and make it executable by using this command:</p>
+<pre>chmod +x ./supercalc.sh</pre>
+<p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
+<h2>On Windows</h2>
+<p>On windows create a file called <code>supercalc.bat</code> in the folder where the emulator files are located with the following contents:</p>
+<pre>altairz80l64.exe supercalc</pre>
+<p>Save and close that file. Now you can double click the file to open the emulator with the SuperCalc 1.00 diskette loaded.</p>
+<p>That's it. We use SuperCalc 1.00, a software released in 1981.</p>
+<div class="post__entry">
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://archive.org/download/supercalc-1.0-manual/Supercalc%201.0.pdf">SuperCalc 1.00 Manual</a></li>
+</ul>
+<h1>Related Pages</h1>
+<ul>
+<li><a href="https://winworldpc.com/product/supercalc/1x" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SuperCalc" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+</ul>
+<h1>Credits</h1>
+<p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to install Multiplan 1.06 on CP/M-80 2.2?</title>
         <author>
@@ -20,7 +84,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-01T20:58:18+05:30</updated>
+        <updated>2022-04-02T21:05:59+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1-2.png" alt="Multiplan 1.06 for CP/M-80 2.2" />
@@ -42,9 +106,9 @@
 </ul>
 <p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with Multiplan 1.06 diskette loaded:</p>
 <pre>./altairz80l64 multiplan</pre>
-<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to star WordStar 4.0:</p>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to start Multiplan 1.06:</p>
 <pre>mp</pre>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-md.png 768w"  alt="Multiplan 1.06 for CP/M-80 2.2" width="834" height="630"></figure>To exit Multiplan, press tab key a few times until <code>Quit</code> is highlighted in the bottom bar, then press enter. Enter <code>y</code> when asked whether to quit or not. Read the mannuals linked below to learn how to use Multiplan.</p>
+<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-md.png 768w"  alt="Multiplan 1.06 for CP/M-80 2.2" width="834" height="630"></figure>To exit Multiplan, press tab key a few times until <code>Quit</code> is highlighted in the bottom bar, then press enter. Enter <code>y</code> when asked whether to quit or not. Read the mannual linked below to learn how to use Multiplan.</p>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with Multiplan 1.06 diskette loaded in B drive.</p>
 <h2>On Linux</h2>
 <p>Create a file called <code>multiplan.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
@@ -53,7 +117,7 @@
 <pre>chmod +x ./multiplan.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
 <h2>On Windows</h2>
-<p>On windows create a file called multiplan.bat in the folder where the emulator files are located with the following contents:</p>
+<p>On windows create a file called <code>multiplan.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe multiplan</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the Multiplan 1.06 diskette loaded.</p>
 <p>That's it. We use Multiplan 1.06, a software released in 1982.</p>
@@ -86,7 +150,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-03-31T19:27:44+05:30</updated>
+        <updated>2022-04-02T21:07:16+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2-2.png" alt="Sample file on WordStar 4.0" />
@@ -108,8 +172,8 @@
 </ul>
 <p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with WordStar 4.0 diskette loaded:</p>
 <pre>./altairz80l64 wordstar</pre>
-<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to star WordStar 4.0:</p>
-<pre>ws.com</pre>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to start WordStar 4.0:</p>
+<pre>ws</pre>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-1-md.png 768w"  alt="WordStar 4.0" width="834" height="630"></figure><br>You can press <code>X</code> to exit WordStar. Read the mannuals linked below to learn how to use WordStar.</p>
 <figure ><figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/responsive/WordStar-4.0-CPM-Altair-Z80-2-md.png 768w"  alt="A sample document on WordStar 4.0" width="834" height="630"></figure>
 <figcaption >A sample document on WordStar 4.0</figcaption>
@@ -122,7 +186,7 @@
 <pre>chmod +x ./wordstar.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
 <h2>On Windows</h2>
-<p>On windows create a file called wordstar.bat in the folder where the emulator files are located with the following contents:</p>
+<p>On windows create a file called <code>wordstar.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe wordstar</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the WordStar 4.0 diskette loaded.</p>
 <p>That's it. We use WordStar 4.0, a software released in 1987.</p>
@@ -156,7 +220,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-03-31T18:57:04+05:30</updated>
+        <updated>2022-04-02T21:07:33+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png" alt="WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator" />
@@ -178,8 +242,8 @@
 </ul>
 <p>Copy those two files to the folder where you stored the files for CP/M-80 2.2. Now you can open a terminal/Command Prompt and enter the following command to start CP/M-80 2.2 with WordStar 3.3 diskette loaded:</p>
 <pre>./altairz80l64 ws33</pre>
-<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to star WordStar 3.3:</p>
-<pre>ws.com</pre>
+<p>Now type <code>b:</code> and press enter to switch to B drive. Enter the following command to start WordStar 3.3:</p>
+<pre>ws</pre>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-md.png 768w"  alt="WordStar 3.3 running on CP/M-80 2.2 on Altair Z80 emulator" width="834" height="630"></figure>You can press <code>X</code> to exit WordStar. Read the mannuals linked below to learn how to use WordStar.</p>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with WordStar 3.3 diskette loaded in B drive.</p>
 <h2>On Linux</h2>
@@ -189,7 +253,7 @@
 <pre>chmod +x ./ws33.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
 <h2>On Windows</h2>
-<p>On windows create a file called ws33.bat in the folder where the emulator files are located with the following contents:</p>
+<p>On windows create a file called <code>ws33.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe ws33</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the WordStar 3.3 diskette loaded.</p>
 <p>That's it. We use WordStar 3.3, a software released in 1983.</p>
@@ -615,7 +679,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-25T12:00:00+05:30</updated>
+        <updated>2022-04-02T21:10:17+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2-2.png" alt="CP/M-80 v2.2 list of files" />
@@ -642,6 +706,13 @@
 <li><a href="https://web.archive.org/web/20200215062937/http://www.cpm.z80.de/manuals/CPMUserMan.pdf" target="_blank" rel="noopener noreferrer">CP/M User Manual</a></li>
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
+</ul>
+<h1>Some Software</h1>
+<ul>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-33-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 3.3</a></li>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 4.0</a></li>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-multiplan-106-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">MultiPlan 1.06</a></li>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">SuperCalc 1.00</a></li>
 </ul>
 <h1>Related Pages</h1>
 <ul>
@@ -708,57 +779,6 @@
 </ul>
 <h1>Credits</h1>
 <p>The emulator which is linked above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to experience 86-DOS?</title>
-        <author>
-            <name>Legacy Installer</name>
-        </author>
-        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/"/>
-        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-86-dos/</id>
-            <category term="Other Emulator"/>
-            <category term="DOS"/>
-
-        <updated>2022-03-24T19:09:48+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
-                    86-DOS is a "quick and dirty" operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2-2.png" alt="86DOS asking for date" />
-                <p>86-DOS is a "quick and dirty" operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS. Sadly, it cannot be emulated by any software we have installed so far. Thankfully, there exist an emulator, which is very tiny in size and we can run 86-DOS on it.</p>
-<p>You can Download them here:</p>
-<ul>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/86DOSonlinux.tar.xz">86DOS Linux version</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/86DOSonwindows.zip">86DOS Windows version</a></li>
-</ul>
-<h1>Using 86-DOS</h1>
-<p>It is very easy to start using 86-DOS. On Linux, extract the above archive and right click on the 86dos.sh file and choose "Run as a Program" or run the shell file the way you run any other shell file. On Windows, extract the above archive and double click the Runme.bat file. The Virtual Machine will start.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-1-md.png 768w"  alt="86DOS emulator screenshot" width="834" height="630"></figure>Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86DOS.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-2-md.png 768w"  alt="86DOS emulator with 86DOS started screenshot" width="834" height="630"></figure>Enter a date from 1980s to continue. You should not enter dates after year 2000 due to a bug in almost all software released before that year. For example, enter 03-23-82 and press Enter(↩). 86-DOS will start. You can enter the DIR command to see a list of available files.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/86DOS-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/2/responsive/86DOS-3-md.png 768w"  alt="DIR command running in 86DOS" width="834" height="630"></figure>That's it! We used 86-DOS, an operating system launched in 1981 after 41 years (at the time of writing this tutorial).</p>
-<h1>Manuals</h1>
-<ul>
-<li><a href="https://web.archive.org/web/20200110094102/http://www.patersontech.com/dos/docs/86_Dos_inst.pdf" target="_blank" rel="noopener noreferrer">86-DOS Instruction Manual</a></li>
-<li><a href="https://web.archive.org/web/20210216072829/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Programmers_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS Programmer's Manual</a></li>
-<li><a href="https://web.archive.org/web/20210216073337/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf" target="_blank" rel="noopener noreferrer">86-DOS User's Manual</a></li>
-<li><a href="https://web.archive.org/web/20210216073838/http://bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf" target="_blank" rel="noopener noreferrer">86-DOS 1.0 Addendum</a></li>
-</ul>
-<h1>Related Pages</h1>
-<ul>
-<li><a href="https://winworldpc.com/product/86-dos/100" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
-<li><a href="https://en.wikipedia.org/wiki/86-DOS" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
-<li><a href="https://betawiki.net/wiki/86-DOS" target="_blank" rel="noopener noreferrer">BetaWiki</a></li>
-<li><a href="https://web.archive.org/web/20200102191543/http://www.patersontech.com/dos/origins-of-dos.aspx" target="_blank" rel="noopener noreferrer">Tim Paterson's Site (Wayback Machine)</a></li>
-<li><a href="https://dosmandrivel.blogspot.com/" target="_blank" rel="noopener noreferrer">Tim Paterson's Blog</a></li>
-</ul>
-<h1>Credits</h1>
-<p>The emulator which is linked above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="nofollow noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="nofollow noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
             ]]>
         </content>
     </entry>
