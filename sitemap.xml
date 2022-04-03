@@ -126,7 +126,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation/</loc>
-<lastmod>2022-03-28T14:16:43+05:30</lastmod>
+<lastmod>2022-04-03T20:23:41+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5-2.png</image:loc>
 <image:title><![CDATA[List of FIles in Sharp X1 CP/M-80 2.2]]></image:title>
@@ -230,6 +230,18 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2.png</image:loc>
 <image:title><![CDATA[A sample document on WordStar 4.0]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordmaster-with-sharp-x1-cpm-80-22/</loc>
+<lastmod>2022-04-03T20:18:48+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png</image:loc>
+<image:title><![CDATA[WordMaster Splash screen]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1.png</image:loc>
+<image:title><![CDATA[WordMaster on Sharp X1 CP/M-80 2.2]]></image:title>
 </image:image>
 </url>
 </urlset>
