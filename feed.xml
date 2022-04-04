@@ -3,12 +3,60 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-03T20:23:41+05:30</updated>
+    <updated>2022-04-04T20:15:00+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
     <id>https://virtualhub.legacyinstaller.pcriot.com</id>
 
+    <entry>
+        <title>How to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/</id>
+            <category term="WordStar"/>
+            <category term="CP/M-80"/>
+            <category term="Application"/>
+
+        <updated>2022-04-04T20:15:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15/WordStar-3.0-CPM-MAME-dmv-1-2.png" alt="WordStar 3.0 on DMV" />
+                    In the last tutorial we saw how to use WordMaster with Sharp X1 CP/M-80 2.2. In this tutorial we will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15/WordStar-3.0-CPM-MAME-dmv-1-2.png" alt="WordStar 3.0 on DMV" />
+                <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordmaster-with-sharp-x1-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to use WordMaster with Sharp X1 CP/M-80 2.2</a>. In this tutorial we will see how to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2. You do not need any files for this tutorial.</p>
+<h1>Using WordStar 3.0</h1>
+<p>First you need to install CP/M-80 2.2 using MAME's NCR Decision Mate V emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed DMV CP/M-80 2.2, we can start using WordStar. You do not need to install anything. WordStar 3.0 came bundled with DMV's CP/M-80 2.2. Just start the VM and enter the following command:</p>
+<pre>ws</pre>
+<p>WordStar will open:</p>
+<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//WordStar-3.0-CPM-MAME-dmv-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-md.png 768w"  alt="WordStar 3.0 on DMV" width="750" height="509"></figure>
+<p>Press X to exit WordStar. You can then close the emulator. Read the manuals linked below to learn how to use WordStar 3.0.</p>
+<p>That's it. We have installed WordStar 3.0, a software released in 1982.</p>
+<h1>Manuals</h1>
+<ul>
+<li><a href="https://web.archive.org/web/20200727101209/http://bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_Training_Guide_2ed_Feb83.pdf" target="_blank" rel="noopener noreferrer">WordStar Training Guide</a></li>
+<li><a href="https://web.archive.org/web/20200727101128/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_General_Information_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 General Information Manual</a></li>
+<li><a href="https://web.archive.org/web/20200727101134/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_Installation_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 Installation Manual</a></li>
+<li><a href="https://web.archive.org/web/20200727101144/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_Reference_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 Reference Manual</a></li>
+</ul>
+<h1>Related Pages</h1>
+<ul>
+<li><a href="https://winworldpc.com/product/wordstar/300" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WordStar" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+<li><a href="https://www.wordstar.org/" target="_blank" rel="noopener noreferrer">WordStar Resource Site</a></li>
+<li><a href="http://www.retroarchive.org/cpm/text/wordstar-collection.html" target="_blank" rel="noopener noreferrer">Retroarchive WordStar Collection</a></li>
+</ul>
+<h1>Credits</h1>
+<p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to use WordMaster with Sharp X1 CP/M-80 2.2?</title>
         <author>
@@ -20,7 +68,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-03T20:18:48+05:30</updated>
+        <updated>2022-04-04T19:39:04+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png" alt="WordMaster Splash screen" />
@@ -32,7 +80,7 @@
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png" alt="WordMaster Splash screen" />
                 <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to install SuperCalc 1.00 on CP/M-80 2.2</a>. In this tutorial we will see how to use WordMaster with Sharp X1 CP/M-80 2.2. WordMaster was a low-cost but powerful text editor for CP/M-80. This product pre-dated WordStar, but was only designed as a text editor, not a full blown word processor. You do not need any files for this tutorial.</p>
 <h1>Using WordMaster</h1>
-<p>First you need to install CP/M-80 2.2 using MAME's Sharp X1 emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have install Sharp X1 CP/M-80 2.2, we can start using WordMaster. You do not need to install anything. WordMaster came bundled with Shap X1's CP/M-80 2.2. Just start the VM and enter the following command:</p>
+<p>First you need to install CP/M-80 2.2 using MAME's Sharp X1 emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed Sharp X1 CP/M-80 2.2, we can start using WordMaster. You do not need to install anything. WordMaster came bundled with Shap X1's CP/M-80 2.2. Just start the VM and enter the following command:</p>
 <pre>wm</pre>
 <p>You will see the WordMaster splash screen:</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/responsive/WordMaster-1.0-CPM-MAME-x1-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/responsive/WordMaster-1.0-CPM-MAME-x1-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/responsive/WordMaster-1.0-CPM-MAME-x1-1-md.png 768w"  alt="WordMaster on Sharp X1 CP/M-80 2.2" width="712" height="591"></figure>
@@ -396,7 +444,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-28T15:35:52+05:30</updated>
+        <updated>2022-04-04T20:13:34+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -480,6 +528,10 @@
 <li><a href="https://web.archive.org/web/20200215062937/http://www.cpm.z80.de/manuals/CPMUserMan.pdf" target="_blank" rel="noopener noreferrer">CP/M User Manual</a></li>
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
+</ul>
+<h1>Some Software</h1>
+<ul>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 3.0</a></li>
 </ul>
 <h1>Related Pages</h1>
 <ul>
@@ -716,65 +768,6 @@
 </ul>
 <h1>Credits</h1>
 <p>The <a href="https://mamedev.org" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to experience CP/M-80 2.2?</title>
-        <author>
-            <name>Legacy Installer</name>
-        </author>
-        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/"/>
-        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/</id>
-            <category term="Other Emulator"/>
-            <category term="CP/M-80"/>
-            <category term="CP/M"/>
-
-        <updated>2022-04-02T21:10:17+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2-2.png" alt="CP/M-80 v2.2 list of files" />
-                    In the last post, we saw how to experience CP/M-80 1.4. For that and 86-DOS, we used a special emulator.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2-2.png" alt="CP/M-80 v2.2 list of files" />
-                <p>In the last post, we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-14/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 1.4</a>. For that and 86-DOS, we used a special emulator. For CP/M-80 2.2, there are 3 options. In this tutorial we are going to use the same emulator we used for the previous tutorials. You can download the emulator package from here:</p>
-<ul>
-<li><a href="https://archive.org/download/cpm-80-v2.2-linux/CPM80v2.2onlinux.tar.xz">CP/M-80 2.2 for Linux</a></li>
-<li><a href="https://archive.org/download/cpm-80-v2.2-windows/CPM80v2.2onwindows.zip">CP/M-80 2.2 for Windows</a></li>
-</ul>
-<h1>Using CP/M-80 2.2</h1>
-<p>It is very easy to start using CP/M-80 2.2. On Linux, extract the above archive and right click on the cpm2.sh file and choose "Run as a Program" or run the shell file the way you run any other shell file. On Windows, extract the above archive and double click the Runme.bat file. The Virtual Machine will start.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-1-md.png 768w"  alt="CP/M-80 v2.2 emulator" width="834" height="630"></figure>You can enter the DIR command to see a list of files.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/CPM-80-2.2-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/5/responsive/CPM-80-2.2-2-md.png 768w"  alt="CP/M-80 2.2 list of files" width="834" height="630"></figure>That's it! We used CP/M-80 2.2, an operating system launched in 1982 after 40 years (at the time of writing this tutorial).</p>
-<h1>Manuals</h1>
-<ul>
-<li><a href="https://web.archive.org/web/20220221170434/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 Interface Guide</a></li>
-<li><a href="https://web.archive.org/web/20220221170433/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 System Alteration Guide</a></li>
-<li><a href="https://web.archive.org/web/20220324101601/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_UG_for_CPM_1_4_Users.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 User's Guide for CP/M 1.4 Users</a></li>
-<li><a href="https://web.archive.org/web/20200215062937/http://www.cpm.z80.de/manuals/CPMUserMan.pdf" target="_blank" rel="noopener noreferrer">CP/M User Manual</a></li>
-<li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
-<li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
-</ul>
-<h1>Some Software</h1>
-<ul>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-33-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 3.3</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-wordstar-40-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 4.0</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-multiplan-106-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">MultiPlan 1.06</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">SuperCalc 1.00</a></li>
-</ul>
-<h1>Related Pages</h1>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
-<li><a href="http://www.cpm.z80.de/" target="_blank" rel="noopener noreferrer">The Unofficial CP/M Web site</a></li>
-<li><a href="http://z80.de/ehome.htm" target="_blank" rel="noopener noreferrer">Gaby's Homepage for CP/M and Computer History</a></li>
-<li><a href="http://www.retroarchive.org/cpm" target="_blank" rel="noopener noreferrer">Commercial CP/M Software (Retro Archive)</a></li>
-<li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
-</ul>
-<h1>Credits</h1>
-<p>The emulator which is linked above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
             ]]>
         </content>
     </entry>

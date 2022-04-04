@@ -98,7 +98,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation/</loc>
-<lastmod>2022-03-28T15:35:52+05:30</lastmod>
+<lastmod>2022-04-04T20:13:34+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png</image:loc>
 <image:title><![CDATA[List of Files in DMV CP/M-80 2.2]]></image:title>
@@ -234,7 +234,7 @@
 </url>
 <url>
 <loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordmaster-with-sharp-x1-cpm-80-22/</loc>
-<lastmod>2022-04-03T20:18:48+05:30</lastmod>
+<lastmod>2022-04-04T19:39:04+05:30</lastmod>
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png</image:loc>
 <image:title><![CDATA[WordMaster Splash screen]]></image:title>
@@ -242,6 +242,18 @@
 <image:image>
 <image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1.png</image:loc>
 <image:title><![CDATA[WordMaster on Sharp X1 CP/M-80 2.2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/</loc>
+<lastmod>2022-04-04T20:15:00+05:30</lastmod>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/15/WordStar-3.0-CPM-MAME-dmv-1-2.png</image:loc>
+<image:title><![CDATA[WordStar 3.0 on DMV]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//WordStar-3.0-CPM-MAME-dmv-1.png</image:loc>
+<image:title><![CDATA[WordStar 3.0 on DMV]]></image:title>
 </image:image>
 </url>
 </urlset>
