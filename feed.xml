@@ -3,12 +3,56 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-04T20:15:00+05:30</updated>
+    <updated>2022-04-05T21:27:13+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
     <id>https://virtualhub.legacyinstaller.pcriot.com</id>
 
+    <entry>
+        <title>How to use the demo included with NCR Decision Mate V on CP/M-80 2.2?</title>
+        <author>
+            <name>Legacy Installer</name>
+        </author>
+        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-the-demo-included-with-ncr-decision-mate-v-on-cpm-80-22/"/>
+        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-use-the-demo-included-with-ncr-decision-mate-v-on-cpm-80-22/</id>
+            <category term="Other Application"/>
+            <category term="CP/M-80"/>
+            <category term="Application"/>
+
+        <updated>2022-04-05T21:27:13+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DMV-demo-Screenshot-1.png" alt="NC Decision Mate V demo" />
+                    In the last tutorial we saw how to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2. In this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DMV-demo-Screenshot-1.png" alt="NC Decision Mate V demo" />
+                <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2</a>. In this tutorial we will see how to use the demo included with NCR Decision Mate V on CP/M-80 2.2. You do not need any files for this tutorial.</p>
+<h1>Using the Demo</h1>
+<p>First you need to install CP/M-80 2.2 using MAME's NCR Decision Mate V emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed DMV CP/M-80 2.2, we can start the Demo. Start the Virtual Machine. Press the CAPS LOCK key to enable UI control. Then press the TAB key to open the menu.</p>
+<p>Then click on <code>File Manager &gt; floppydisk2</code>. Choose <code>extras</code> and then choose the <code>80NCRGRF.IMD</code> file from the list and choose <code>Read-write</code>.</p>
+<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DEMO-CPM-MAME-dmv-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-md.png 768w"  alt="Insert the demo disk" width="1025" height="752"></figure>
+<p>Then click on <code>Return to Previous menu &gt; Return to the machine</code>. Press the CAPS LOCK key once again to turn off UI control. Now switch to B drive using the following command:</p>
+<pre>b:</pre>
+<p>And then, start the demo using the following command:</p>
+<pre>demo5</pre>
+<p>Here are some screenshots:</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-demo-Screenshot-1.png" data-size="765x529"><img decoding="async" loading="lazy" src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-demo-Screenshot-1-thumbnail.png" alt="DMV Demo Screeshot 1" width="765" height="529"></a></figure>
+<figure class="gallery__item"><a href="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-2.png" data-size="765x529"><img decoding="async" loading="lazy" src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-2-thumbnail.png" alt="DMV Demo Screeshot 2" width="765" height="529"></a></figure>
+<figure class="gallery__item"><a href="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-3.png" data-size="765x529"><img decoding="async" loading="lazy" src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-3-thumbnail.png" alt="DMV Demo Screeshot 3" width="765" height="529"></a></figure>
+<figure class="gallery__item"><a href="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-4.png" data-size="765x529"><img decoding="async" loading="lazy" src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/gallery/DMV-Demo-Screenshot-4-thumbnail.png" alt="DMV Demo Screeshot 4" width="765" height="529"></a></figure>
+</div></div>
+<p>You can exit the demo by pressing <code>Ctrl</code> + <code>C</code>. You can now close the emulator.</p>
+<p>That's it. We used the demo included with NCR Decision Mate V. This software came with no Manuals and is not famous enough to have any related sites.</p>
+<h1>Credits</h1>
+<p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2?</title>
         <author>
@@ -444,7 +488,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-04T20:13:34+05:30</updated>
+        <updated>2022-04-05T21:25:03+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -532,6 +576,7 @@
 <h1>Some Software</h1>
 <ul>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 3.0</a></li>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-the-demo-included-with-ncr-decision-mate-v-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">Demo included with the original hardware</a></li>
 </ul>
 <h1>Related Pages</h1>
 <ul>
@@ -659,115 +704,6 @@
 <h1>Credits</h1>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to experience CP/M-80 2.2 using MAME&#x27;s KAYPRO II emulation?</title>
-        <author>
-            <name>Legacy Installer</name>
-        </author>
-        <link href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation/"/>
-        <id>https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation/</id>
-            <category term="MAME"/>
-            <category term="CP/M-80"/>
-            <category term="CP/M"/>
-
-        <updated>2022-03-27T12:36:38+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5-2.png" alt="List of files in KAYPRO II CP/M-80 2.2" />
-                    In the last tutorial, we saw how to experience CP/M-80 2.2 using the Altair Z80 emulator. I said that there&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5-2.png" alt="List of files in KAYPRO II CP/M-80 2.2" />
-                <p>In the last tutorial, we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2 using the Altair Z80 emulator</a>. I said that there were three options to run CP/M-80 2.2. In this tutorial, we are going to use the second option: MAME. MAME is an all-in-one emulator of many systems. There are three system on which we can run CP/M-80 2.2:</p>
-<ul>
-<li>KAYPRO II</li>
-<li>NCR Decision Mate V</li>
-<li>Sharp X1</li>
-</ul>
-<p>In this tutorial, we are going to use the KAYPRO II emulation. You can download the files required for this tutorial from here:</p>
-<ul>
-<li><a href="https://archive.org/download/kaypro-ii-64k-cpm-vers-2.2/KAYPRO%20II%2064k%20CPM%20vers%202.2.7z">CP/M-80 2.2 for KAYPRO II disk image files</a></li>
-<li><a href="https://archive.org/download/mame-merged/mame-merged/kayproii.zip">MAME KAYPRO II ROM</a></li>
-<li><a href="https://archive.org/download/mame-merged/mame-merged/kaypro10kbd.zip">MAME KAYPRO II KBD ROM</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.linux.tar.xz">mame.ini file for Linux</a></li>
-<li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.windows.zip">mame.ini file for Windows</a></li>
-</ul>
-<h1>Installing CP/M-80 2.2</h1>
-<p>First you need to make sure you have installed MAME. For windows, see our tutorial on Legacy Installer on <a href="https://legacyinstaller.pcriot.com/vm-software/mame" target="_blank" rel="noopener noreferrer">how to install MAME on Windows</a>. For linux, you can install mame from the official repository of your distribution. See <a href="https://pkgs.org/download/mame" target="_blank" rel="noopener noreferrer">this page</a> for a list of <span style="font-weight: 400;">distributions</span> offering the package. If your distribution does not include mame in its repositories (highly unlikely), you can <a href="https://docs.mamedev.org/initialsetup/compilingmame.html" target="_blank" rel="noopener noreferrer">build MAME from source</a>.</p>
-<p>After you have installed MAME, you need to create a folder in which all the files related to the emulator will reside. Open a Terminal/Command Prompt window and move to that folder. Then run:</p>
-<pre>mame -cc</pre>
-<p>You may need to specify the path to MAME if you are on Windows:</p>
-<pre>"C:\Program Files\MAME\mame.exe" -cc</pre>
-<p>This command will create some basic config files for MAME in that folder. Now open the folder in your File Manager and delete the <code>mame.ini</code> file. Extract the <code>mame.ini</code> file from the archive you downloaded above according to your platform and copy it to the folder in which you are storing all the files related to the emulator. Create a folder called <code>roms</code> in that folder. Copy the ROMs archives to that folder. Do not extract the ROMs from the zip files. Move the zip files without extracting to the <code>roms</code> folder.</p>
-<p>Extract the disk image archive and copy the <code>KAY64CPM.IMD</code> file to that folder where you are storing all the files related to the emulator.</p>
-<p>Now switch back to the terminal and run:</p>
-<pre>mame kayproii</pre>
-<p>You need to prefix <code>mame</code> with the path on Windows as shown above. The mame window should open like this:</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-1-md.png 768w"  alt="MAME KAYPRO II window" width="980" height="752"></figure>
-<p>If the window does not open and you get a ROM not found or similar error, see the troubleshooting section below. Press any key to continue.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-2-md.png 768w"  alt="KAYPRO II asking for floppy disk" width="708" height="548"></figure>
-<p>Press the CAPS LOCK key to enable UI control. Then press the TAB key to open the menu.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-3-md.png 768w"  alt="Emulator main menu" width="708" height="548"></figure>
-<p>Then click on <code>File Manager &gt; floppydisk</code>. Choose the <code>KAY64CPM.IMD</code> file from the list and choose <code>Read-write</code>.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-4.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-4-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-4-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-4-md.png 768w"  alt="Choosing the floppy image" width="708" height="548"></figure>
-<p>Then click on <code>Return to Previous menu &gt; Return to the machine</code>. Press the CAPS LOCK key once again to turn off UI control. CP/M-80 2.2 should have started. If not, then press any key to start it. You can enter the <code>DIR</code> command to see a list of files.</p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/CPM-80-2.2-MAME-kayproii-5.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-5-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-5-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/6/responsive/CPM-80-2.2-MAME-kayproii-5-md.png 768w"  alt="List of files in KAYPRO CP/M-80 2.2" width="708" height="548"></figure>
-<p>There is a WordStar executable on that disk image, but for me it did not work. You can try your luck and run <code>ws.com</code>.</p>
-<p>Now, you can close this window. The next time you open the emulator again, you don't need to go through all these steps. Just open your terminal and <span style="font-weight: 400;">navigate</span> to the folder where all the the files related to the emulator are stored and run:</p>
-<pre>mame kayproii</pre>
-<p>You need to prefix the above command with the path to MAME on windows as shown above.</p>
-<p>But this method is very troublesome and lengthy. We can make a shell script which runs the above command on linux:</p>
-<pre>#!/bin/bash<br>mame kayproii</pre>
-<p>and save the file as CPM-80-kayproii.sh. Then make the script executable by running the following command in terminal after navigating to that folder:</p>
-<pre>sudo chmod +x ./CPM-80-kayproii.sh</pre>
-<p>Then we can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
-<p>On Windows, it is much easier. Create a file called CPM-80-kayproii.bat in that folder with the following contents:</p>
-<pre>"C:\Program Files\MAME\mame.exe" kayproii</pre>
-<p>Then double click on that file to launch the emulator.</p>
-<p>That's it. We have installed and run CP/M-80 2.2 using the MAME's KAYPRO II emulation.</p>
-<h1>Troubleshooting</h1>
-<p>First make sure that you have placed the roms files in the correct place. Do not <span style="font-weight: 400;">extract</span> the files. Place the zip files directly in the <code>roms</code> folder.</p>
-<p>On Linux, there might be another error. MAME might have been configured to look in your <code>~/.mame</code> folder for its config files. If that is the case, running the command <code>mame</code> without any parameters in the folder where you have stored the files would result in MAME opening in full screen instead of a window. If you are affected by this problem, here is the solution:</p>
-<ul>
-<li>Configure your file manager to show hidden files.</li>
-<li>Go to the <code>~/.mame</code> folder.</li>
-<li>Delete the <code>mame.ini</code> file there.</li>
-<li>Copy the <code>mame.ini</code> file you downloaded from above to that folder.</li>
-</ul>
-<p>The <code>mame.ini</code> file you downloaded above instructs MAME to look for another mame.ini file in the current folder and use it if found. So, you can then follow the tutorial and everything will work.</p>
-<h2>Some explanation</h2>
-<p>I asked you to replace the <code>mame.ini</code> file with the one you downloaded from here. What are the differences between those files? Here are they:</p>
-<ul>
-<li>It instructs MAME to open in windowed mode instead of full screen.</li>
-<li>It modifies the key needed for enabling UI controls from Scroll Lock to Caps Lock. This is done because many keyboards do not have a Scroll Lock key.</li>
-<li>On Linux, it instructs MAME to first look for <span style="font-weight: 400;">configuration</span> files in the current directory, and if found, use them instead of the one from <code>~/.mame</code> folder.</li>
-</ul>
-<p>That is it.</p>
-<h1>Manuals</h1>
-<ul>
-<li><a href="https://web.archive.org/web/20220221170434/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 Interface Guide</a></li>
-<li><a href="https://web.archive.org/web/20220221170433/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 System Alteration Guide</a></li>
-<li><a href="https://web.archive.org/web/20220324101601/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_UG_for_CPM_1_4_Users.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 User's Guide for CP/M 1.4 Users</a></li>
-<li><a href="https://web.archive.org/web/20200215062937/http://www.cpm.z80.de/manuals/CPMUserMan.pdf" target="_blank" rel="noopener noreferrer">CP/M User Manual</a></li>
-<li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
-<li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
-</ul>
-<h1>Related Pages</h1>
-<ul>
-<li><a href="https://winworldpc.com/product/cp-m-80/22" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
-<li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
-<li><a href="http://www.cpm.z80.de/" target="_blank" rel="noopener noreferrer">The Unofficial CP/M Web site</a></li>
-<li><a href="http://z80.de/ehome.htm" target="_blank" rel="noopener noreferrer">Gaby's Homepage for CP/M and Computer History</a></li>
-<li><a href="http://www.retroarchive.org/cpm" target="_blank" rel="noopener noreferrer">Commercial CP/M Software (Retro Archive)</a></li>
-<li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
-</ul>
-<h1>Credits</h1>
-<p>The <a href="https://mamedev.org" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
             ]]>
         </content>
     </entry>
