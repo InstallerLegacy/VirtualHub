@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-06T10:52:22+05:30</updated>
+    <updated>2022-04-06T11:48:39+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -488,7 +488,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-06T10:51:40+05:30</updated>
+        <updated>2022-04-06T11:48:39+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -588,7 +588,10 @@
 <li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
 </ul>
 <h2>Credits</h2>
-<p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
+<ul>
+<li>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</li>
+<li>The disk image used above was taken from <a href="https://winworldpc.com/" target="_blank" rel="noopener noreferrer">WinWorld</a>.</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -603,7 +606,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-06T10:52:22+05:30</updated>
+        <updated>2022-04-06T11:48:20+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5-2.png" alt="List of FIles in Sharp X1 CP/M-80 2.2" />
@@ -702,7 +705,10 @@
 <li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
 </ul>
 <h2>Credits</h2>
-<p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
+<ul>
+<li>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</li>
+<li>The disk image used above was taken from <a href="https://winworldpc.com/" target="_blank" rel="noopener noreferrer">WinWorld</a>.</li>
+</ul>
 </div>
             ]]>
         </content>
