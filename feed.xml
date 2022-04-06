@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-05T21:27:13+05:30</updated>
+    <updated>2022-04-06T10:52:22+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-05T21:27:13+05:30</updated>
+        <updated>2022-04-06T10:47:00+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DMV-demo-Screenshot-1.png" alt="NC Decision Mate V demo" />
@@ -31,7 +31,7 @@
             <![CDATA[
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DMV-demo-Screenshot-1.png" alt="NC Decision Mate V demo" />
                 <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2</a>. In this tutorial we will see how to use the demo included with NCR Decision Mate V on CP/M-80 2.2. You do not need any files for this tutorial.</p>
-<h1>Using the Demo</h1>
+<h2>Using the Demo</h2>
 <p>First you need to install CP/M-80 2.2 using MAME's NCR Decision Mate V emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed DMV CP/M-80 2.2, we can start the Demo. Start the Virtual Machine. Press the CAPS LOCK key to enable UI control. Then press the TAB key to open the menu.</p>
 <p>Then click on <code>File Manager &gt; floppydisk2</code>. Choose <code>extras</code> and then choose the <code>80NCRGRF.IMD</code> file from the list and choose <code>Read-write</code>.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/DEMO-CPM-MAME-dmv-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/16/responsive/DEMO-CPM-MAME-dmv-1-md.png 768w"  alt="Insert the demo disk" width="1025" height="752"></figure>
@@ -48,7 +48,7 @@
 </div></div>
 <p>You can exit the demo by pressing <code>Ctrl</code> + <code>C</code>. You can now close the emulator.</p>
 <p>That's it. We used the demo included with NCR Decision Mate V. This software came with no Manuals and is not famous enough to have any related sites.</p>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
             ]]>
         </content>
@@ -64,7 +64,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-04T20:15:00+05:30</updated>
+        <updated>2022-04-06T10:47:22+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15/WordStar-3.0-CPM-MAME-dmv-1-2.png" alt="WordStar 3.0 on DMV" />
@@ -75,28 +75,28 @@
             <![CDATA[
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15/WordStar-3.0-CPM-MAME-dmv-1-2.png" alt="WordStar 3.0 on DMV" />
                 <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordmaster-with-sharp-x1-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to use WordMaster with Sharp X1 CP/M-80 2.2</a>. In this tutorial we will see how to use WordStar 3.0 with NCR Decision Mate V CP/M-80 2.2. You do not need any files for this tutorial.</p>
-<h1>Using WordStar 3.0</h1>
+<h2>Using WordStar 3.0</h2>
 <p>First you need to install CP/M-80 2.2 using MAME's NCR Decision Mate V emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed DMV CP/M-80 2.2, we can start using WordStar. You do not need to install anything. WordStar 3.0 came bundled with DMV's CP/M-80 2.2. Just start the VM and enter the following command:</p>
 <pre>ws</pre>
 <p>WordStar will open:</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//WordStar-3.0-CPM-MAME-dmv-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/15//responsive/WordStar-3.0-CPM-MAME-dmv-1-md.png 768w"  alt="WordStar 3.0 on DMV" width="750" height="509"></figure>
 <p>Press X to exit WordStar. You can then close the emulator. Read the manuals linked below to learn how to use WordStar 3.0.</p>
 <p>That's it. We have installed WordStar 3.0, a software released in 1982.</p>
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20200727101209/http://bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_Training_Guide_2ed_Feb83.pdf" target="_blank" rel="noopener noreferrer">WordStar Training Guide</a></li>
 <li><a href="https://web.archive.org/web/20200727101128/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_General_Information_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 General Information Manual</a></li>
 <li><a href="https://web.archive.org/web/20200727101134/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_Installation_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 Installation Manual</a></li>
 <li><a href="https://web.archive.org/web/20200727101144/http://bitsavers.org/pdf/microPro/Wordstar_3.0/Wordstar_3.0_Reference_Manual_May81.pdf" target="_blank" rel="noopener noreferrer">Wordstar 3.0 Reference Manual</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/wordstar/300" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/WordStar" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 <li><a href="https://www.wordstar.org/" target="_blank" rel="noopener noreferrer">WordStar Resource Site</a></li>
 <li><a href="http://www.retroarchive.org/cpm/text/wordstar-collection.html" target="_blank" rel="noopener noreferrer">Retroarchive WordStar Collection</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
             ]]>
         </content>
@@ -112,7 +112,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-04T19:39:04+05:30</updated>
+        <updated>2022-04-06T10:47:46+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png" alt="WordMaster Splash screen" />
@@ -123,7 +123,7 @@
             <![CDATA[
                     <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/14/WordMaster-1.0-CPM-MAME-x1-1-2.png" alt="WordMaster Splash screen" />
                 <p>In the last tutorial we saw <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-install-supercalc-100-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to install SuperCalc 1.00 on CP/M-80 2.2</a>. In this tutorial we will see how to use WordMaster with Sharp X1 CP/M-80 2.2. WordMaster was a low-cost but powerful text editor for CP/M-80. This product pre-dated WordStar, but was only designed as a text editor, not a full blown word processor. You do not need any files for this tutorial.</p>
-<h1>Using WordMaster</h1>
+<h2>Using WordMaster</h2>
 <p>First you need to install CP/M-80 2.2 using MAME's Sharp X1 emulation. If you have not already done so see <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation/" target="_blank" rel="noopener noreferrer">our tutorial on that topic</a>. After you have installed Sharp X1 CP/M-80 2.2, we can start using WordMaster. You do not need to install anything. WordMaster came bundled with Shap X1's CP/M-80 2.2. Just start the VM and enter the following command:</p>
 <pre>wm</pre>
 <p>You will see the WordMaster splash screen:</p>
@@ -132,16 +132,16 @@
 <pre>wm hello.txt</pre>
 <p>If the file does not exist, it will be created. To exit WordMaster, press ESC then enter Q. When asked whether to quit or not enter Y. Read the manuals linked below to learn how to use WordMaster.</p>
 <p>That's it. We have installed WordMaster, a software released in 1981.</p>
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20220130174728/https://wiki.polaire.nl/lib/exe/fetch.php?media=micropro_wordmaster.pdf" target="_blank" rel="noopener noreferrer">WordMaster Manual</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/wordmaster/1x" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/WordMaster" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
             ]]>
         </content>
@@ -157,7 +157,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-02T21:06:53+05:30</updated>
+        <updated>2022-04-06T10:48:17+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/SuperCalc-1.00-CPM-Altair-Z80-1.png" alt="SuperCalc Splash Screen" />
@@ -171,7 +171,7 @@
 <ul>
 <li><a href="https://web.archive.org/web/20210514212444/https://schorn.ch/cpm/zip/supercalc.zip" target="_blank" rel="noopener noreferrer">SuperCalc 1.00 package for Altair Z80s CP/M-80 2.2</a></li>
 </ul>
-<h1>Installing SuperCalc 1.00</h1>
+<h2>Installing SuperCalc 1.00</h2>
 <p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the SuperCalc 1.00 package you downloaded from above. There are two files in that archive:</p>
 <ul>
 <li>supercalc</li>
@@ -183,28 +183,28 @@
 <pre>sc2</pre>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/SuperCalc-1.00-CPM-Altair-Z80-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/13/responsive/SuperCalc-1.00-CPM-Altair-Z80-2-md.png 768w"  alt="SuperCalc 1.00 on CP/M-80 2.2" width="818" height="612"></figure>To exit SuperCalc, press <code>/</code> then <code>q</code> they <code>y</code>. Read the mannual linked below to learn how to use SuperCalc.</p>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with SuperCalc 1.00 diskette loaded in B drive.</p>
-<h2>On Linux</h2>
+<h3>On Linux</h3>
 <p>Create a file called <code>supercalc.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
 <pre>#!/bin/bash<br>./altairz80l64 supercalc</pre>
 <p>Save and close the file and make it executable by using this command:</p>
 <pre>chmod +x ./supercalc.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
-<h2>On Windows</h2>
+<h3>On Windows</h3>
 <p>On windows create a file called <code>supercalc.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe supercalc</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the SuperCalc 1.00 diskette loaded.</p>
 <p>That's it. We use SuperCalc 1.00, a software released in 1981.</p>
 <div class="post__entry">
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://archive.org/download/supercalc-1.0-manual/Supercalc%201.0.pdf">SuperCalc 1.00 Manual</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/supercalc/1x" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/SuperCalc" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
 </div>
             ]]>
@@ -221,7 +221,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-02T21:05:59+05:30</updated>
+        <updated>2022-04-06T10:49:05+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1-2.png" alt="Multiplan 1.06 for CP/M-80 2.2" />
@@ -235,7 +235,7 @@
 <ul>
 <li><a href="https://web.archive.org/web/20191206100425/https://schorn.ch/cpm/zip/multiplan.zip" target="_blank" rel="noopener noreferrer">Multiplan 1.06 package for Altair Z80s CP/M-80 2.2</a></li>
 </ul>
-<h1>Installing Multiplan 1.06</h1>
+<h2>Installing Multiplan 1.06</h2>
 <p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the Multiplan 1.06 package you downloaded from above. There are two files in that archive:</p>
 <ul>
 <li>multiplan</li>
@@ -247,30 +247,30 @@
 <pre>mp</pre>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/Multiplan-1.06-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/12/responsive/Multiplan-1.06-CPM-Altair-Z80-1-md.png 768w"  alt="Multiplan 1.06 for CP/M-80 2.2" width="834" height="630"></figure>To exit Multiplan, press tab key a few times until <code>Quit</code> is highlighted in the bottom bar, then press enter. Enter <code>y</code> when asked whether to quit or not. Read the mannual linked below to learn how to use Multiplan.</p>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with Multiplan 1.06 diskette loaded in B drive.</p>
-<h2>On Linux</h2>
+<h3>On Linux</h3>
 <p>Create a file called <code>multiplan.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
 <pre>#!/bin/bash<br>./altairz80l64 multiplan</pre>
 <p>Save and close the file and make it executable by using this command:</p>
 <pre>chmod +x ./multiplan.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
-<h2>On Windows</h2>
+<h3>On Windows</h3>
 <p>On windows create a file called <code>multiplan.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe multiplan</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the Multiplan 1.06 diskette loaded.</p>
 <p>That's it. We use Multiplan 1.06, a software released in 1982.</p>
 <div class="post__entry">
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20211013052749/http://www.bitsavers.org/pdf/microsoft/cpm/Microsoft_Multiplan_for_CPM_1982.pdf" target="_blank" rel="noopener noreferrer">Microsoft Multiplan for CPM Manual</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/multiplan/106" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Multiplan" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 <li><a href="https://microsoft.fandom.com/wiki/Multiplan" target="_blank" rel="noopener noreferrer">Microsoft Fandom wiki page</a></li>
 <li><a href="https://eightbitworld1984.blogspot.com/2012/11/microsofts-first-spreadsheet-multiplan.html" target="_blank" rel="noopener noreferrer">A good blog post about Multiplan</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
 </div>
             ]]>
@@ -287,7 +287,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-02T21:07:16+05:30</updated>
+        <updated>2022-04-06T10:49:39+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/11/WordStar-4.0-CPM-Altair-Z80-2-2.png" alt="Sample file on WordStar 4.0" />
@@ -301,7 +301,7 @@
 <ul>
 <li><a href="https://web.archive.org/web/20210505164107/https://schorn.ch/cpm/zip/wordstar.zip" target="_blank" rel="noopener noreferrer">WordStar 4.0 package for Altair Z80s CP/M-80 2.2</a></li>
 </ul>
-<h1>Installing WordStar 4.0</h1>
+<h2>Installing WordStar 4.0</h2>
 <p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the WordStar 4.0 package you downloaded from above. There are two files in that archive:</p>
 <ul>
 <li>wordstar</li>
@@ -316,31 +316,31 @@
 <figcaption >A sample document on WordStar 4.0</figcaption>
 </figure>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with WordStar 4.0 diskette loaded in B drive.</p>
-<h2>On Linux</h2>
+<h3>On Linux</h3>
 <p>Create a file called <code>wordstar.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
 <pre>#!/bin/bash<br>./altairz80l64 wordstar</pre>
 <p>Save and close the file and make it executable by using this command:</p>
 <pre>chmod +x ./wordstar.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
-<h2>On Windows</h2>
+<h3>On Windows</h3>
 <p>On windows create a file called <code>wordstar.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe wordstar</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the WordStar 4.0 diskette loaded.</p>
 <p>That's it. We use WordStar 4.0, a software released in 1987.</p>
 <div class="post__entry">
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20200727101218/http://bitsavers.org/pdf/microPro/Wordstar_4/Wordstar_CPM_Release_4_1987.pdf" target="_blank" rel="noopener noreferrer">WordStar 4.0 Manual</a></li>
 <li><a href="https://web.archive.org/web/20200727101231/http://bitsavers.org/pdf/microPro/Wordstar_4/Wordstar_CPM_Release_4_Whats_New_1987.pdf" target="_blank" rel="noopener noreferrer">WordStar 4.0 What's New</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/wordstar/40" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/WordStar" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 <li><a href="https://www.wordstar.org/" target="_blank" rel="noopener noreferrer">WordStar Resource Site</a></li>
 <li><a href="http://www.retroarchive.org/cpm/text/wordstar-collection.html" target="_blank" rel="noopener noreferrer">Retroarchive WordStar Collection</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
 </div>
             ]]>
@@ -357,7 +357,7 @@
             <category term="CP/M-80"/>
             <category term="Application"/>
 
-        <updated>2022-04-02T21:07:33+05:30</updated>
+        <updated>2022-04-06T10:50:13+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1-2.png" alt="WordStar 3.3 on CP/M-80 2.2 on Altair Z80 emulator" />
@@ -371,7 +371,7 @@
 <ul>
 <li><a href="https://web.archive.org/web/20220330051710/https://schorn.ch/cpm/zip/ws33.zip" target="_blank" rel="noopener noreferrer">WordStar 3.3 package for Altair Z80s CP/M-80 2.2</a></li>
 </ul>
-<h1>Installing WordStar 3.3</h1>
+<h2>Installing WordStar 3.3</h2>
 <p>First, you need to install CP/M-80 2.2 using Altair Z80 emulator. If have not already done so, see our tutorial on <a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-experience-cpm-80-22/" target="_blank" rel="noopener noreferrer">how to experience CP/M-80 2.2</a>. After you have installed CP/M-80 2.2, unzip the WordStar 3.3 package you downloaded from above. There are two files in that archive:</p>
 <ul>
 <li>ws33</li>
@@ -383,32 +383,32 @@
 <pre>ws</pre>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/WordStar-3.3-CPM-Altair-Z80-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/10/responsive/WordStar-3.3-CPM-Altair-Z80-1-md.png 768w"  alt="WordStar 3.3 running on CP/M-80 2.2 on Altair Z80 emulator" width="834" height="630"></figure>You can press <code>X</code> to exit WordStar. Read the mannuals linked below to learn how to use WordStar.</p>
 <p>We will now create shell/Batch scripts to start CP/M-80 2.2 with WordStar 3.3 diskette loaded in B drive.</p>
-<h2>On Linux</h2>
+<h3>On Linux</h3>
 <p>Create a file called <code>ws33.sh</code> in the folder where you stored everything related to the VM with the following contents:</p>
 <pre>#!/bin/bash<br>./altairz80l64 ws33</pre>
 <p>Save and close the file and make it executable by using this command:</p>
 <pre>chmod +x ./ws33.sh</pre>
 <p>You need to execute the above command in the folder where you created that script. Now you can right click on that file and click on Run as Program to open the emulator. Some DEs and distros may have other methods of running shell scripts.</p>
-<h2>On Windows</h2>
+<h3>On Windows</h3>
 <p>On windows create a file called <code>ws33.bat</code> in the folder where the emulator files are located with the following contents:</p>
 <pre>altairz80l64.exe ws33</pre>
 <p>Save and close that file. Now you can double click the file to open the emulator with the WordStar 3.3 diskette loaded.</p>
 <p>That's it. We use WordStar 3.3, a software released in 1983.</p>
 <div class="post__entry">
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20200727101155/http://bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_3.3_Installation_Manual_1983.pdf" target="_blank" rel="noopener noreferrer">WordStar Installation Manual For Release 3.3</a></li>
 <li><a href="https://web.archive.org/web/20210223080731/http://www.bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_3.3_Reference_Manual_1983.pdf" target="_blank" rel="noopener noreferrer">WordStar Reference Manual For Release 3.3</a></li>
 <li><a href="https://web.archive.org/web/20200727101209/http://bitsavers.org/pdf/microPro/Wordstar_3.3/Wordstar_Training_Guide_2ed_Feb83.pdf" target="_blank" rel="noopener noreferrer">WordStar 3.3 Training Guide</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/wordstar/330" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/WordStar" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
 <li><a href="https://www.wordstar.org/" target="_blank" rel="noopener noreferrer">WordStar Resource Site</a></li>
 <li><a href="http://www.retroarchive.org/cpm/text/wordstar-collection.html" target="_blank" rel="noopener noreferrer">Retroarchive WordStar Collection</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The emulator which is used above was created by <a href="mailto:peter.schorn@acm.org" target="_blank" rel="noopener noreferrer">Peter Schorn</a>. You can visit <a href="https://schorn.ch/altair.html" target="_blank" rel="noopener noreferrer">his website</a> to download the original emulator and lots of other software.</p>
 </div>
             ]]>
@@ -425,7 +425,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-03-31T18:57:21+05:30</updated>
+        <updated>2022-04-06T10:50:52+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png" alt="List of FIles in YAZE CP/M-80 2.2" />
@@ -440,21 +440,21 @@
 <li><a href="https://web.archive.org/web/20220329102455/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/devel/yaze-ag-2.51.3.tar.gz" target="_blank" rel="noopener noreferrer">YAZE sources for Linux</a></li>
 <li><a href="https://web.archive.org/web/20220329102257/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/winbinaries/index.html" target="_blank" rel="noopener noreferrer">YAZE binaries for Windows</a></li>
 </ul>
-<h1>Installing YAZE</h1>
-<h2>Linux</h2>
+<h2>Installing YAZE</h2>
+<h3>Linux</h3>
 <p>On Linux, you need to build YAZE from sources. Extract the source archive and delete the <code>Makefile</code>. Rename the <code>Makefile_linux_your_architecture</code> file to <code>Makefile</code>. For example, I renamed <code>Makefile_linux_64_amd_athlon64</code> to <code>Makefile</code> because I am on an amd64 cpu. Then open a terminal and navigate to that folder. Run the following commands:</p>
 <pre>make<br>sudo make install</pre>
 <p>Enter your password when asked. This will install YAZE on your system.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-1-md.png 768w"  alt="sudo make install yaze" width="834" height="630"></figure>You can now run <code>yaze</code> to start YAZE. Press any key when asked to do so. Read the imformation presented on your screen before pressing any key.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-2-md.png 768w"  alt="YAZE running" width="834" height="630"></figure>You will now get to the <code>A:</code> prompt. You can run the <code>DIR</code> command to see a list of files.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-3-md.png 768w"  alt="List of Files on YAZE CP/M-80 2.2" width="834" height="630"></figure>That's it for Linux. We have installed and used YAZE with CP/M-80 2.2.</p>
-<h2>Windows</h2>
+<h3>Windows</h3>
 <p>On Windows, double click the installer file to start installation of YAZE.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-4.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-4-md.png 768w"  alt="YAZE Windows Installer" width="523" height="391"></figure>
 <p>Then click on Extract. It will install YAZE. You will see an icon on your Desktop called YAZE. Double click on it to start YAZE. Press any key when asked to do so. Read the imformation presented on your screen before pressing any key.</p>
 <figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-5.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-xs.png 300w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-sm.png 480w ,https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/responsive/CPM-80-2.2-YAZE-5-md.png 768w"  alt="YAZE on Windows" width="901" height="538"></figure>
 <p>That's it for Windows. We have installed and used YAZE with CP/M-80 2.2.</p>
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20220221170434/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 Interface Guide</a></li>
 <li><a href="https://web.archive.org/web/20220221170433/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 System Alteration Guide</a></li>
@@ -463,7 +463,7 @@
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/cp-m-80/22" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
@@ -472,7 +472,7 @@
 <li><a href="http://www.retroarchive.org/cpm" target="_blank" rel="noopener noreferrer">Commercial CP/M Software (Retro Archive)</a></li>
 <li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The YAZE enulator is an open source project created by <a href="https://www.mathematik.uni-ulm.de/users/ag" target="_blank" rel="noopener noreferrer">Andreas Gerlich</a>. You can visit its <a href="https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/" target="_blank" rel="noopener noreferrer">website</a> to know more.</p>
             ]]>
         </content>
@@ -488,7 +488,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-05T21:25:03+05:30</updated>
+        <updated>2022-04-06T10:51:40+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/8/CPM-80-2.2-dmv-5-2.png" alt="List of Files in DMV CP/M-80 2.2" />
@@ -514,7 +514,7 @@
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.linux.tar.xz" download>mame.ini file for Linux</a></li>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.windows.zip" download>mame.ini file for Windows</a></li>
 </ul>
-<h1>Installing CP/M-80 2.2</h1>
+<h2>Installing CP/M-80 2.2</h2>
 <p>First you need to make sure you have installed MAME. For windows, see our tutorial on Legacy Installer on <a href="https://legacyinstaller.pcriot.com/vm-software/mame" target="_blank" rel="noopener noreferrer">how to install MAME on Windows</a>. For linux, you can install mame from the official repository of your distribution. See <a href="https://pkgs.org/download/mame" target="_blank" rel="noopener noreferrer">this page</a> for a list of distributions offering the package. If your distribution does not include mame in its repositories (highly unlikely), you can <a href="https://docs.mamedev.org/initialsetup/compilingmame.html" target="_blank" rel="noopener noreferrer">build MAME from source</a>.</p>
 <p>After you have installed MAME, you need to create a folder in which all the files related to the emulator will reside. Open a Terminal/Command Prompt window and move to that folder. Then run:</p>
 <pre>mame -cc</pre>
@@ -546,7 +546,7 @@
 <pre>"C:\Program Files\MAME\mame.exe" dmv</pre>
 <p>Then double click on that file to launch the emulator.</p>
 <p>That's it. We have installed and run CP/M-80 2.2 using the MAME's NCR Decision Mate V emulation. There are disk images for some software in the extra folder. We will cover these software later.</p>
-<h1>Troubleshooting</h1>
+<h2>Troubleshooting</h2>
 <p>First make sure that you have placed the roms files in the correct place. Do not extract the files. Place the zip files directly in the <code>roms</code> folder.</p>
 <p>On Linux, there might be another error. MAME might have been configured to look in your <code>~/.mame</code> folder for its config files. If that is the case, running the command <code>mame</code> without any parameters in the folder where you have stored the files would result in MAME opening in full screen instead of a window. If you are affected by this problem, here is the solution:</p>
 <ul>
@@ -556,7 +556,7 @@
 <li>Copy the <code>mame.ini</code> file you downloaded from above to that folder.</li>
 </ul>
 <p>The <code>mame.ini</code> file you downloaded above instructs MAME to look for another mame.ini file in the current folder and use it if found. So, you can then follow the tutorial and everything will work.</p>
-<h2>Some explanation</h2>
+<h3>Some explanation</h3>
 <p>I asked you to replace the <code>mame.ini</code> file with the one you downloaded from here. What are the differences between those files? Here are they:</p>
 <ul>
 <li>It instructs MAME to open in windowed mode instead of full screen.</li>
@@ -564,7 +564,7 @@
 <li>On Linux, it instructs MAME to first look for configuration files in the current directory, and if found, use them instead of the one from <code>~/.mame</code> folder.</li>
 </ul>
 <p>That is it.</p>
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20220221170434/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 Interface Guide</a></li>
 <li><a href="https://web.archive.org/web/20220221170433/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 System Alteration Guide</a></li>
@@ -573,12 +573,12 @@
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
 </ul>
-<h1>Some Software</h1>
+<h2>Some Software</h2>
 <ul>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-30-with-ncr-decision-mate-v-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordStar 3.0</a></li>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-the-demo-included-with-ncr-decision-mate-v-on-cpm-80-22/" target="_blank" rel="noopener noreferrer">Demo included with the original hardware</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/cp-m-80/22" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
@@ -587,7 +587,7 @@
 <li><a href="http://www.retroarchive.org/cpm" target="_blank" rel="noopener noreferrer">Commercial CP/M Software (Retro Archive)</a></li>
 <li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
             ]]>
         </content>
@@ -603,7 +603,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-03T20:23:41+05:30</updated>
+        <updated>2022-04-06T10:52:22+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/7/CPM-80-2.2-MAME-x1-5-2.png" alt="List of FIles in Sharp X1 CP/M-80 2.2" />
@@ -626,7 +626,7 @@
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.linux.tar.xz">mame.ini file for Linux</a></li>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/media/files/mame.ini.windows.zip">mame.ini file for Windows</a></li>
 </ul>
-<h1>Installing CP/M-80 2.2</h1>
+<h2>Installing CP/M-80 2.2</h2>
 <p>First you need to make sure you have installed MAME. For windows, see our tutorial on Legacy Installer on <a href="https://legacyinstaller.pcriot.com/vm-software/mame" target="_blank" rel="noopener noreferrer">how to install MAME on Windows</a>. For linux, you can install mame from the official repository of your distribution. See <a href="https://pkgs.org/download/mame" target="_blank" rel="noopener noreferrer">this page</a> for a list of <span style="font-weight: 400;">distributions</span> offering the package. If your distribution does not include mame in its repositories (highly unlikely), you can <a href="https://docs.mamedev.org/initialsetup/compilingmame.html" target="_blank" rel="noopener noreferrer">build MAME from source</a>.</p>
 <p>After you have installed MAME, you need to create a folder in which all the files related to the emulator will reside. Open a Terminal/Command Prompt window and move to that folder. Then run:</p>
 <pre>mame -cc</pre>
@@ -661,7 +661,7 @@
 <pre>"C:\Program Files\MAME\mame.exe" x1</pre>
 <p>Then double click on that file to launch the emulator.</p>
 <p>That's it. We have installed and run CP/M-80 2.2 using the MAME's Sharp X1 emulation.</p>
-<h1>Troubleshooting</h1>
+<h2>Troubleshooting</h2>
 <p>First make sure that you have placed the roms files in the correct place. Do not <span style="font-weight: 400;">extract</span> the files. Place the zip files directly in the <code>roms</code> folder.</p>
 <p>On Linux, there might be another error. MAME might have been configured to look in your <code>~/.mame</code> folder for its config files. If that is the case, running the command <code>mame</code> without any parameters in the folder where you have stored the files would result in MAME opening in full screen instead of a window. If you are affected by this problem, here is the solution:</p>
 <ul>
@@ -671,7 +671,7 @@
 <li>Copy the <code>mame.ini</code> file you downloaded from above to that folder.</li>
 </ul>
 <p>The <code>mame.ini</code> file you downloaded above instructs MAME to look for another mame.ini file in the current folder and use it if found. So, you can then follow the tutorial and everything will work.</p>
-<h2>Some explanation</h2>
+<h3>Some explanation</h3>
 <p>I asked you to replace the <code>mame.ini</code> file with the one you downloaded from here. What are the differences between those files? Here are they:</p>
 <ul>
 <li>It instructs MAME to open in windowed mode instead of full screen.</li>
@@ -679,7 +679,7 @@
 <li>On Linux, it instructs MAME to first look for <span style="font-weight: 400;">configuration</span> files in the current directory, and if found, use them instead of the one from <code>~/.mame</code> folder.</li>
 </ul>
 <p>That is it.</p>
-<h1>Manuals</h1>
+<h2>Manuals</h2>
 <ul>
 <li><a href="https://web.archive.org/web/20220221170434/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_Interface_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 Interface Guide</a></li>
 <li><a href="https://web.archive.org/web/20220221170433/http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.0 System Alteration Guide</a></li>
@@ -688,11 +688,11 @@
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
 </ul>
-<h1>Some Software</h1>
+<h2>Some Software</h2>
 <ul>
 <li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordmaster-with-sharp-x1-cpm-80-22/" target="_blank" rel="noopener noreferrer">WordMaster</a></li>
 </ul>
-<h1>Related Pages</h1>
+<h2>Related Pages</h2>
 <ul>
 <li><a href="https://winworldpc.com/product/cp-m-80/22" target="_blank" rel="noopener noreferrer">WinWorld Page</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CP/M" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
@@ -701,7 +701,7 @@
 <li><a href="http://www.retroarchive.org/cpm" target="_blank" rel="noopener noreferrer">Commercial CP/M Software (Retro Archive)</a></li>
 <li><a href="http://z80.de/ecpmlink.htm" target="_blank" rel="noopener noreferrer">A lots of other links</a></li>
 </ul>
-<h1>Credits</h1>
+<h2>Credits</h2>
 <p>The <a href="https://mamedev.org/" target="_blank" rel="noopener noreferrer">MAME emulator</a> is an open source project hosted on <a href="https://github.com/mamedev/mame" target="_blank" rel="noopener noreferrer">github</a> developed by MAMEDev and contributors.</p>
 </div>
             ]]>
