@@ -3,7 +3,7 @@
     <title>VirtualHub</title>
     <link href="https://virtualhub.legacyinstaller.pcriot.com/feed.xml" rel="self" />
     <link href="https://virtualhub.legacyinstaller.pcriot.com" />
-    <updated>2022-04-06T19:41:19+05:30</updated>
+    <updated>2022-04-06T19:44:32+05:30</updated>
     <author>
         <name>Legacy Installer</name>
     </author>
@@ -474,7 +474,7 @@
             <category term="CP/M-80"/>
             <category term="CP/M"/>
 
-        <updated>2022-04-06T10:50:52+05:30</updated>
+        <updated>2022-04-06T19:44:32+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://virtualhub.legacyinstaller.pcriot.com/media/posts/9/CPM-80-2.2-YAZE-3-2.png" alt="List of FIles in YAZE CP/M-80 2.2" />
@@ -511,6 +511,10 @@
 <li><a href="https://web.archive.org/web/20200215062937/http://www.cpm.z80.de/manuals/CPMUserMan.pdf" target="_blank" rel="noopener noreferrer">CP/M User Manual</a></li>
 <li><a href="https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf" target="_blank" rel="noopener noreferrer">CP/M 2.2 MANUAL</a></li>
 <li><a href="https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf" target="_blank" rel="noopener noreferrer">CP/M Reference Manual</a></li>
+</ul>
+<h2>Some Software</h2>
+<ul>
+<li><a href="https://virtualhub.legacyinstaller.pcriot.com/how-to-use-wordstar-40-on-yaze/" target="_blank" rel="noopener noreferrer">WordStar 4.0</a></li>
 </ul>
 <h2>Related Pages</h2>
 <ul>
